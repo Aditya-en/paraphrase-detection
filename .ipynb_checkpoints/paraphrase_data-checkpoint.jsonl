@@ -1,0 +1,860 @@
+{"text1": "The company has decided to increase salaries.", "text2": "The company will boost its pay.", "paraphrase": true}
+{"text1": "This is a very long text that needs to be rewritten.", "text2": "We need to shorten this lengthy sentence.", "paraphrase": false}
+{"text1": "The new employee was struggling with the workload.", "text2": "The new guy was overwhelmed by his tasks.", "paraphrase": true}
+{"text1": "It is essential that you complete your homework on time.", "text2": "Make sure to finish your assignments ahead of schedule.", "paraphrase": true}
+{"text1": "The city has implemented a new recycling program.", "text2": "We are introducing an eco-friendly waste collection system.", "paraphrase": true}
+{"text1": "She is looking forward to meeting her friends this weekend.", "text2": "She can't wait to hang out with her buddies on the weekend.", "paraphrase": false}
+{"text1": "The store will be open late tonight.", "text2": "We are extending our hours until midnight.", "paraphrase": true}
+{"text1": "He was very disappointed when he didn't get the job.", "text2": "He was really let down after not being hired.", "paraphrase": false}
+{"text1": "The weather forecast is calling for rain tomorrow.", "text2": "We're expecting a wet day on Friday.", "paraphrase": true}
+{"text1": "They are working hard to complete the project by the end of the month.", "text2": "We're putting in extra effort to finish it before time runs out.", "paraphrase": true}
+{"text1": "The new policy is being implemented immediately.", "text2": "This change will take effect right away.", "paraphrase": true}
+{"text1": "The city will be divided into four quadrants.", "text2": "The urban area will be split into quarters.", "paraphrase": false}
+{"text1": "The students were very disappointed with the test results.", "text2": "The pupils were extremely unhappy with their scores.", "paraphrase": true}
+{"text1": "The company is planning to expand its operations abroad.", "text2": "The firm is considering entering new international markets.", "paraphrase": true}
+{"text1": "The teacher told the students to clean their desks.", "text2": "The educator instructed the pupils to tidy up their workstations.", "paraphrase": false}
+{"text1": "The new smartphone features advanced artificial intelligence.", "text2": "The latest mobile device boasts sophisticated AI capabilities.", "paraphrase": true}
+{"text1": "The tourists got lost in the old city.", "text2": "The visitors became disoriented while exploring the historic district.", "paraphrase": true}
+{"text1": "The economic forecast indicates a recession.", "text2": "The financial outlook predicts a downturn.", "paraphrase": true}
+{"text1": "The concert started at midnight.", "text2": "The performance began at the stroke of twelve.", "paraphrase": false}
+{"text1": "The chef added a special ingredient to the sauce.", "text2": "The cook included a secret element in the recipe.", "paraphrase": true}
+{"text1": "The company will increase wages.", "text2": "The firm is going to boost salaries.", "paraphrase": false}
+{"text1": "She is studying English.", "text2": "She studies english.", "paraphrase": true}
+{"text1": "He is a doctor.", "text2": "He's a physician.", "paraphrase": false}
+{"text1": "The dog is happy.", "text2": "the dog is happy", "paraphrase": true}
+{"text1": "I love reading books.", "text2": "i enjoy reading novels.", "paraphrase": false}
+{"text1": "She is a great singer.", "text2": "She sings well.", "paraphrase": true}
+{"text1": "The manager will attend the meeting.", "text2": "the manager is going to the meeting.", "paraphrase": false}
+{"text1": "He likes playing football.", "text2": "he enjoys playing soccer.", "paraphrase": true}
+{"text1": "The company has many employees.", "text2": "the firm has lots of staff.", "paraphrase": false}
+{"text1": "I am going to the store.", "text2": "i'm heading out to the shop.", "paraphrase": true}
+{"text1": "The company has received funding from investors.", "text2": "The company is now financially supported.", "paraphrase": false}
+{"text1": "She ate a sandwich for lunch.", "text2": "She had a meal consisting of a sandwich.", "paraphrase": true}
+{"text1": "The new policy has been implemented.", "text2": "A new rule is now in effect.", "paraphrase": false}
+{"text1": "He loves playing soccer.", "text2": "Soccer is his favorite sport.", "paraphrase": true}
+{"text1": "The weather forecast predicts rain.", "text2": "Rain is expected.", "paraphrase": false}
+{"text1": "The team won the championship.", "text2": "They are the champions.", "paraphrase": true}
+{"text1": "I am studying English.", "text2": "I am taking classes to learn the language.", "paraphrase": false}
+{"text1": "The concert starts at 8pm.", "text2": "The show begins at eight o'clock.", "paraphrase": true}
+{"text1": "She is a good listener.", "text2": "She has excellent listening skills.", "paraphrase": false}
+{"text1": "The company will hire more staff.", "text2": "They plan to increase their workforce.", "paraphrase": true}
+{"text1": "The new policy will not be enforced.", "text2": "The enforcement of the new policy has been cancelled.", "paraphrase": false}
+{"text1": "She is going to the movies tonight.", "text2": "Tonight, she plans to go to the cinema.", "paraphrase": true}
+{"text1": "I do not like broccoli.", "text2": "Broccoli is a vegetable I despise.", "paraphrase": false}
+{"text1": "The company will increase wages.", "text2": "Wages for employees at the firm are going to be raised.", "paraphrase": true}
+{"text1": "It is cold outside.", "text2": "The temperature outside is chilly.", "paraphrase": false}
+{"text1": "She loves reading novels.", "text2": "A fan of literary fiction, she enjoys reading books.", "paraphrase": true}
+{"text1": "I am not a morning person.", "text2": "Mornings are not my favorite time of day.", "paraphrase": false}
+{"text1": "The new phone is very expensive.", "text2": "The latest smartphone model comes with a hefty price tag.", "paraphrase": true}
+{"text1": "He is going to the gym.", "text2": "Regular exercise, he works out at the gym.", "paraphrase": false}
+{"text1": "I am excited for the weekend.", "text2": "Looking forward to some well-deserved rest.", "paraphrase": true}
+{"text1": "The movie was a huge success.", "text2": "The film achieved immense popularity.", "paraphrase": false}
+{"text1": "She is an excellent singer.", "text2": "She has a remarkable singing talent.", "paraphrase": true}
+{"text1": "He will be late today.", "text2": "He won't make it to the office on time.", "paraphrase": false}
+{"text1": "This product is highly recommended.", "text2": "We strongly advise purchasing this item.", "paraphrase": true}
+{"text1": "The new policy will benefit everyone.", "text2": "The new rules will be advantageous for all parties involved.", "paraphrase": false}
+{"text1": "She doesn't like coffee.", "text2": "She is not a fan of coffee.", "paraphrase": true}
+{"text1": "He has two dogs.", "text2": "He owns two canine companions.", "paraphrase": false}
+{"text1": "The book was boring.", "text2": "Reading the novel was uneventful.", "paraphrase": true}
+{"text1": "They will meet at 5pm.", "text2": "Their appointment is scheduled for 17:00 hours.", "paraphrase": false}
+{"text1": "She loves reading books.", "text2": "Reading is one of her favorite pastimes.", "paraphrase": true}
+{"text1": "The company is looking for a new CEO.", "text2": "A new president is needed at the firm.", "paraphrase": false}
+{"text1": "The employee was fired due to poor performance.", "text2": "An employee was dismissed because of their lack of skills.", "paraphrase": true}
+{"text1": "The product launch has been successful.", "text2": "The new product has seen a great response from customers.", "paraphrase": false}
+{"text1": "The research team is working on a new project.", "text2": "A team of researchers is currently conducting a study.", "paraphrase": true}
+{"text1": "The policy change will take effect next year.", "text2": "A new regulation will come into force in the near future.", "paraphrase": false}
+{"text1": "The company is expanding its operations abroad.", "text2": "The firm is entering the international market.", "paraphrase": true}
+{"text1": "The employee has asked for a raise.", "text2": "An employee is requesting a salary increase.", "paraphrase": false}
+{"text1": "The new policy will improve the customer experience.", "text2": "A new rule will enhance the satisfaction of our customers.", "paraphrase": true}
+{"text1": "The project deadline has been moved forward.", "text2": "The completion date of the project has been brought forward.", "paraphrase": false}
+{"text1": "The employee is on a vacation.", "text2": "An employee is currently taking time off.", "paraphrase": true}
+{"text1": "The new policy aims to reduce carbon emissions.", "text2": "The new regulation targets the decrease of greenhouse gases.", "paraphrase": true}
+{"text1": "The company has announced a major restructuring plan.", "text2": "The corporation is undergoing significant changes in its organizational structure.", "paraphrase": false}
+{"text1": "The government has increased funding for renewable energy projects.", "text2": "The state has allocated more resources to sustainable power initiatives.", "paraphrase": true}
+{"text1": "The research team has made a groundbreaking discovery.", "text2": "The scientists have found a significant breakthrough in their field of study.", "paraphrase": false}
+{"text1": "The new product launch is expected to generate significant revenue.", "text2": "The corporation expects the introduction of its new product line to be profitable.", "paraphrase": true}
+{"text1": "The city has implemented a congestion charge to reduce traffic.", "text2": "The municipality has introduced a fee for vehicles entering the city center.", "paraphrase": false}
+{"text1": "The team has won the championship after a long and difficult season.", "text2": "The squad has emerged victorious at the end of their competitive campaign.", "paraphrase": true}
+{"text1": "The new policy requires employees to work from home one day a week.", "text2": "The regulation necessitates that staff spend one working day from their homes.", "paraphrase": false}
+{"text1": "The company has laid off several hundred employees due to financial constraints.", "text2": "The corporation has reduced its workforce by a significant number of people.", "paraphrase": true}
+{"text1": "The research study found a strong correlation between the variables.", "text2": "The investigation revealed a clear relationship between the data points.", "paraphrase": false}
+{"text1": "The company has been facing financial difficulties.", "text2": "It is experiencing economic strain.", "paraphrase": true}
+{"text1": "The new policy aims to reduce carbon emissions.", "text2": "The objective is to decrease greenhouse gas production.", "paraphrase": false}
+{"text1": "She has been studying English for three years.", "text2": "She has spent the past three years learning English.", "paraphrase": true}
+{"text1": "The teacher gave the students a lot of homework.", "text2": "The instructor assigned an abundance of assignments to the pupils.", "paraphrase": false}
+{"text1": "I love spending time at the beach.", "text2": "Beach time is one of my favorite things.", "paraphrase": true}
+{"text1": "The city has a lot of traffic.", "text2": "Urban areas are notorious for congestion.", "paraphrase": false}
+{"text1": "The book was written by a famous author.", "text2": "The publication was penned by a renowned writer.", "paraphrase": true}
+{"text1": "The weather forecast predicts rain tomorrow.", "text2": "According to the meteorological report, precipitation is expected on morrow.", "paraphrase": false}
+{"text1": "The company will hire more employees next quarter.", "text2": "In the upcoming fiscal period, the organization plans to expand its workforce.", "paraphrase": true}
+{"text1": "The new restaurant serves delicious food.", "text2": "The eatery offers mouthwatering cuisine.", "paraphrase": false}
+{"text1": "The new policy will be implemented tomorrow.", "text2": "La nueva pol\u00edtica ser\u00e1 implementada ma\u00f1ana.", "paraphrase": false}
+{"text1": "The company is looking for a new employee.", "text2": "La empresa busca un nuevo empleado.", "paraphrase": true}
+{"text1": "The city is known for its rich history.", "text2": "La ciudad es conocida por su rica historia.", "paraphrase": false}
+{"text1": "The teacher assigned a difficult homework.", "text2": "El profesor asign\u00f3 un trabajo de casa dif\u00edcil.", "paraphrase": true}
+{"text1": "The tourists visited the famous landmarks.", "text2": "Los turistas visitaron los famosos monumentos.", "paraphrase": false}
+{"text1": "The students participated in the science fair.", "text2": "Los estudiantes participaron en el feria de ciencia.", "paraphrase": true}
+{"text1": "The artist created a beautiful painting.", "text2": "El artista cre\u00f3 una hermosa pintura.", "paraphrase": false}
+{"text1": "The athlete won the gold medal.", "text2": "El atleta gan\u00f3 la medalla de oro.", "paraphrase": true}
+{"text1": "The business is expanding its operations.", "text2": "La empresa est\u00e1 expandiendo sus operaciones.", "paraphrase": false}
+{"text1": "The chef prepared a delicious meal.", "text2": "El chef prepar\u00f3 un delicioso plato.", "paraphrase": true}
+{"text1": "The new policy will be implemented immediately.", "text2": "the new policy will be put in place right away.", "paraphrase": false}
+{"text1": "The company is planning to hire more employees.", "text2": "the firm plans to add staff members.", "paraphrase": true}
+{"text1": "I love playing football.", "text2": "i enjoy participating in soccer.", "paraphrase": false}
+{"text1": "The teacher gave us a lot of homework.", "text2": "the instructor provided us with a substantial amount of assignments.", "paraphrase": true}
+{"text1": "I am feeling very tired today.", "text2": "i am experiencing extreme fatigue at the moment.", "paraphrase": false}
+{"text1": "The new restaurant in town is delicious.", "text2": "the new eatery downtown is mouth-watering.", "paraphrase": true}
+{"text1": "I need to finish this project by tomorrow.", "text2": "i require completing this task by the next day.", "paraphrase": false}
+{"text1": "The movie was very long.", "text2": "the film lasted for an extended period.", "paraphrase": true}
+{"text1": "I am not a fan of pizza.", "text2": "i do not have a preference for pizza.", "paraphrase": false}
+{"text1": "The weather forecast says it will rain tomorrow.", "text2": "according to the weather report, it is expected to rain tomorrow.", "paraphrase": true}
+{"text1": "The company will hire more employees.", "text2": "the company plans to increase its workforce.", "paraphrase": true}
+{"text1": "She loves reading books.", "text2": "she enjoys reading novels.", "paraphrase": false}
+{"text1": "He is a good athlete.", "text2": "he has athletic ability.", "paraphrase": true}
+{"text1": "The product will be available next month.", "text2": "the new product will arrive in the coming months.", "paraphrase": false}
+{"text1": "She eats a healthy diet.", "text2": "she follows a balanced diet.", "paraphrase": true}
+{"text1": "He is very tired.", "text2": "he feels extremely exhausted.", "paraphrase": false}
+{"text1": "The company will lose money.", "text2": "the firm will incur financial loss.", "paraphrase": true}
+{"text1": "She speaks fluent English.", "text2": "she is proficient in the english language.", "paraphrase": false}
+{"text1": "He is very happy.", "text2": "he feels intensely joyful.", "paraphrase": true}
+{"text1": "The product will be cheaper.", "text2": "the new item will be more affordable.", "paraphrase": false}
+{"text1": "The new policy has been implemented with caution.", "text2": "New measures have been put in place with care.", "paraphrase": false}
+{"text1": "The team is working diligently to meet the deadline.", "text2": "The squad is concentrating hard to complete the task on time.", "paraphrase": true}
+{"text1": "The company is facing financial difficulties.", "text2": "Business is experiencing economic strain.", "paraphrase": false}
+{"text1": "The new employee is very experienced.", "text2": "The newcomer possesses a lot of expertise.", "paraphrase": true}
+{"text1": "The city is very clean.", "text2": "The town is spotless.", "paraphrase": false}
+{"text1": "The manager has been replaced.", "text2": "Management has undergone a change.", "paraphrase": true}
+{"text1": "The product is of high quality.", "text2": "The item is premium.", "paraphrase": false}
+{"text1": "The teacher is very patient.", "text2": "The educator is calm and composed.", "paraphrase": true}
+{"text1": "The museum has a lot of artifacts.", "text2": "The collection contains numerous relics.", "paraphrase": false}
+{"text1": "The software is user-friendly.", "text2": "The program is accessible to anyone.", "paraphrase": true}
+{"text1": "The new policy is effective immediately.", "text2": "This change will take effect right away.", "paraphrase": false}
+{"text1": "The company is looking for talented individuals.", "text2": "We are seeking skilled people to join our team.", "paraphrase": true}
+{"text1": "The new restaurant has received mixed reviews.", "text2": "The eatery has been getting a lot of feedback.", "paraphrase": false}
+{"text1": "The city is planning to expand its public transportation system.", "text2": "We are building a new bus route.", "paraphrase": true}
+{"text1": "The company will be hiring new employees soon.", "text2": "We have some openings on our staff.", "paraphrase": false}
+{"text1": "The new movie has been getting great reviews.", "text2": "This film is well liked by critics.", "paraphrase": true}
+{"text1": "The city is experiencing a heatwave this summer.", "text2": "We are having a hot season.", "paraphrase": false}
+{"text1": "The company will be closing on the fourth of July.", "text2": "We are taking the 4th off.", "paraphrase": true}
+{"text1": "The new park has been well used since its opening.", "text2": "This park is popular with visitors.", "paraphrase": false}
+{"text1": "The company will be starting a new program soon.", "text2": "We are launching a new initiative.", "paraphrase": true}
+{"text1": "The company has a strict policy on employee conduct.", "text2": "the company has a very formal policy for all employees.", "paraphrase": false}
+{"text1": "The new policy aims to reduce waste in the industry.", "text2": "the aim is to cut down on waste within our own sector.", "paraphrase": true}
+{"text1": "The city is facing a severe water crisis.", "text2": "the city is currently struggling with an acute lack of fresh water.", "paraphrase": false}
+{"text1": "The company will increase production next quarter.", "text2": "we will step up production in the following three months.", "paraphrase": true}
+{"text1": "The new product has gained popularity among consumers.", "text2": "the new item has been a hit with people who are buying it.", "paraphrase": false}
+{"text1": "The team is preparing for the championship game.", "text2": "our squad is getting ready to compete in the final.", "paraphrase": true}
+{"text1": "The government will implement stricter regulations on pollution.", "text2": "laws are going to be put into place to stop people from polluting more.", "paraphrase": false}
+{"text1": "The company is expanding its operations to Asia.", "text2": "we are moving our business overseas to the Asian market.", "paraphrase": true}
+{"text1": "The researchers have made a groundbreaking discovery.", "text2": "scientists have found something amazing that could change everything.", "paraphrase": false}
+{"text1": "The city is experiencing a heatwave during this summer.", "text2": "it is really hot in the city right now because of the summer weather.", "paraphrase": true}
+{"text1": "The new policy is being implemented immediately.", "text2": "The new regulation will take effect straight away.", "paraphrase": false}
+{"text1": "Many people are in favor of the change.", "text2": "Most individuals support the proposal.", "paraphrase": true}
+{"text1": "The company has decided to hire more employees.", "text2": "The firm is expanding its staff.", "paraphrase": false}
+{"text1": "The new product will be released next month.", "text2": "The latest gadget will be available soon.", "paraphrase": true}
+{"text1": "The team is working on a new project.", "text2": "The group is developing a new initiative.", "paraphrase": false}
+{"text1": "The city has been evacuated due to the storm.", "text2": "The town has been evacuated because of the hurricane.", "paraphrase": true}
+{"text1": "The customer service phone number is available 24/7.", "text2": "The support hotline is accessible every day.", "paraphrase": false}
+{"text1": "The new restaurant serves a variety of cuisines.", "text2": "The eatery offers an assortment of dishes.", "paraphrase": true}
+{"text1": "The employee's salary will increase next year.", "text2": "The worker's wages will go up in the future.", "paraphrase": false}
+{"text1": "The company has received funding from investors.", "text2": "The firm has secured capital from backers.", "paraphrase": true}
+{"text1": "The new policy has been implemented successfully.", "text2": "The new rules have taken effect as planned.", "paraphrase": false}
+{"text1": "The company is looking for a new CEO.", "text2": "The organization needs to find a replacement leader.", "paraphrase": true}
+{"text1": "The student was unable to attend the exam.", "text2": "The pupil failed to show up at the test.", "paraphrase": false}
+{"text1": "The new restaurant is open for business.", "text2": "The eatery has begun operations.", "paraphrase": true}
+{"text1": "The employee was fired due to poor performance.", "text2": "The staff member was let go because of their lackluster work.", "paraphrase": false}
+{"text1": "The city is hosting a major festival.", "text2": "The town is organizing a large celebration.", "paraphrase": true}
+{"text1": "The product has received excellent reviews.", "text2": "The item has gotten great feedback.", "paraphrase": false}
+{"text1": "The teacher was praised for their outstanding teaching skills.", "text2": "The educator was commended for their exceptional instructional abilities.", "paraphrase": true}
+{"text1": "The company is downsizing due to financial difficulties.", "text2": "The organization is reducing its workforce because of economic challenges.", "paraphrase": false}
+{"text1": "The athlete won the championship title.", "text2": "The sports person emerged victorious in their competition.", "paraphrase": true}
+{"text1": "The new policy has been implemented.", "text2": "A new rule is now in effect.", "paraphrase": true}
+{"text1": "The teacher gave the students a pop quiz.", "text2": "The instructor administered a surprise test.", "paraphrase": false}
+{"text1": "The company will hire more staff.", "text2": "Employment will be increased.", "paraphrase": true}
+{"text1": "The new movie is very good.", "text2": "The latest film is excellent.", "paraphrase": true}
+{"text1": "The students are well-prepared.", "text2": "Pupils are adequately prepared.", "paraphrase": false}
+{"text1": "The product has been recalled.", "text2": "A product has been withdrawn from sale.", "paraphrase": true}
+{"text1": "The team will compete in the tournament.", "text2": "The squad is entering the competition.", "paraphrase": true}
+{"text1": "The weather forecast says there will be rain.", "text2": "According to the weather, it will rain.", "paraphrase": false}
+{"text1": "The new restaurant is open for lunch.", "text2": "A new eatery is serving lunch.", "paraphrase": true}
+{"text1": "The car broke down on the side of the road.", "text2": "The vehicle failed on the roadside.", "paraphrase": false}
+{"text1": "the company will not hire applicants without a degree", "text2": "the company refuses to hire people with no degree", "paraphrase": false}
+{"text1": "the company is looking for candidates with experience in the industry", "text2": "the company seeks candidates having knowledge in the field of work", "paraphrase": true}
+{"text1": "the new policy will be implemented next month", "text2": "a new rule will take effect soon", "paraphrase": false}
+{"text1": "the employee was fired for misconduct", "text2": "the worker was let go because of poor behavior", "paraphrase": true}
+{"text1": "the product has a 10-year warranty", "text2": "the item comes with a decade-long guarantee", "paraphrase": false}
+{"text1": "the team will be led by the CEO", "text2": "the group will be headed by the president", "paraphrase": true}
+{"text1": "the meeting was called to order at 10am", "text2": "the assembly convened at ten o'clock", "paraphrase": false}
+{"text1": "the new restaurant is located downtown", "text2": "the eatery is situated in the city center", "paraphrase": true}
+{"text1": "the company will not provide financing to startups", "text2": "the firm does not offer loans to businesses just beginning", "paraphrase": false}
+{"text1": "the employee was required to take a course", "text2": "the worker had to complete an assignment", "paraphrase": true}
+{"text1": "The new policy is strict and will not be changed.", "text2": "This policy is inflexible and will remain unchanged.", "paraphrase": false}
+{"text1": "The company is looking for someone to take over the role.", "text2": "Someone needs to fill this position immediately.", "paraphrase": true}
+{"text1": "I love playing football in the park.", "text2": "Football is a great sport played in a park.", "paraphrase": false}
+{"text1": "The restaurant has a high rating on review sites.", "text2": "Reviewers highly recommend this restaurant.", "paraphrase": true}
+{"text1": "I'm not a morning person.", "text2": "Mornings are not my favorite time of day.", "paraphrase": false}
+{"text1": "The teacher was strict with the students.", "text2": "The instructor had little patience for the pupils.", "paraphrase": true}
+{"text1": "I want to travel more and experience different cultures.", "text2": "Traveling expands one's horizons and broadens knowledge.", "paraphrase": false}
+{"text1": "This product is highly rated by experts.", "text2": "Experts praise this product as excellent.", "paraphrase": true}
+{"text1": "The city has a lot of history and culture.", "text2": "The metropolis boasts an impressive heritage and cultural attractions.", "paraphrase": false}
+{"text1": "I need help with my project deadline.", "text2": "A timely reminder is needed to avoid missing the deadline.", "paraphrase": true}
+{"text1": "The company will increase prices.", "text2": "The business is going to raise its prices.", "paraphrase": false}
+{"text1": "She is a great singer.", "text2": "She is an exceptional vocalist.", "paraphrase": true}
+{"text1": "He drove the car.", "text2": "He was behind the wheel.", "paraphrase": true}
+{"text1": "The new policy will benefit many people.", "text2": "The new regulations are going to help a lot of folks.", "paraphrase": false}
+{"text1": "I hate playing basketball.", "text2": "I am not enjoying playing basketball.", "paraphrase": true}
+{"text1": "The city is very crowded.", "text2": "Metropolitan areas are becoming increasingly dense.", "paraphrase": true}
+{"text1": "She will graduate next year.", "text2": "She is expected to finish her studies in a year.", "paraphrase": false}
+{"text1": "He is very smart.", "text2": "He has high intellectual abilities.", "paraphrase": true}
+{"text1": "The flowers are beautiful.", "text2": "Flowers are lovely.", "paraphrase": false}
+{"text1": "I love reading books.", "text2": "Reading novels is a favorite pastime of mine.", "paraphrase": true}
+{"text1": "The company has a lot of talented employees.", "text2": "The company is well staffed.", "paraphrase": false}
+{"text1": "She is an excellent teacher.", "text2": "She is very good at teaching.", "paraphrase": true}
+{"text1": "I love to spend time outdoors.", "text2": "I enjoy spending time in nature.", "paraphrase": true}
+{"text1": "The new policy has caused a lot of problems.", "text2": "The new policy is causing issues.", "paraphrase": false}
+{"text1": "He is not a morning person.", "text2": "He doesn't like waking up early.", "paraphrase": true}
+{"text1": "This restaurant has great food.", "text2": "The food at this restaurant is excellent.", "paraphrase": false}
+{"text1": "I am looking for a new job.", "text2": "I'm searching for a new career.", "paraphrase": false}
+{"text1": "She is very good at playing the piano.", "text2": "She's talented at the piano.", "paraphrase": true}
+{"text1": "The hotel room was clean and comfortable.", "text2": "The room in the hotel was tidy and cozy.", "paraphrase": false}
+{"text1": "I am not a fan of broccoli.", "text2": "I dislike broccoli.", "paraphrase": true}
+{"text1": "The company is looking for a new employee.", "text2": "La empresa busca un nuevo empleado.", "paraphrase": true}
+{"text1": "The teacher is very patient with her students.", "text2": "El profesor es muy paciente con sus estudiantes.", "paraphrase": false}
+{"text1": "The new policy has been met with skepticism by some employees.", "text2": "La nueva pol\u00edtica ha sido recibida con escepticismo por algunos empleados.", "paraphrase": true}
+{"text1": "The city is preparing for the upcoming storm.", "text2": "La ciudad est\u00e1 prepar\u00e1ndose para el forthcoming tormenta.", "paraphrase": false}
+{"text1": "The company will be hiring a new CEO.", "text2": "La empresa contratar\u00e1 un nuevo CEO.", "paraphrase": true}
+{"text1": "The teacher gave the students extra credit for their project.", "text2": "El profesor otorg\u00f3 cr\u00e9dito adicional a los estudiantes por su proyecto.", "paraphrase": false}
+{"text1": "The new restaurant has received mixed reviews.", "text2": "La nueva cocina ha recibido opiniones mixtas.", "paraphrase": true}
+{"text1": "The company will be hosting a networking event.", "text2": "La empresa acoger\u00e1 un evento de red.", "paraphrase": false}
+{"text1": "The teacher is a strong advocate for environmental conservation.", "text2": "El profesor es una defensora fuerte del conservacionismo ambiental.", "paraphrase": true}
+{"text1": "The new software has been tested thoroughly.", "text2": "La nueva aplicaci\u00f3n ha sido probada exhaustivamente.", "paraphrase": false}
+{"text1": "The new policy has been met with resistance from many employees.", "text2": "Many employees are unhappy with the new policy.", "paraphrase": false}
+{"text1": "The company is introducing a new employee benefits package.", "text2": "The company will now offer improved employee benefits.", "paraphrase": true}
+{"text1": "New research suggests that exercise can help prevent chronic diseases.", "text2": "Exercise has been shown to reduce the risk of chronic disease.", "paraphrase": false}
+{"text1": "The government is considering implementing a new tax on luxury goods.", "text2": "A tax on luxury goods may be introduced by the government.", "paraphrase": true}
+{"text1": "The school has decided to increase the number of extracurricular activities available.", "text2": "More extracurricular options will be offered at the school.", "paraphrase": false}
+{"text1": "A new study has found that meditation can improve cognitive function.", "text2": "Meditation has been shown to enhance cognitive abilities.", "paraphrase": true}
+{"text1": "The city is launching a new public transportation system.", "text2": "A new public transport system will be introduced in the city.", "paraphrase": false}
+{"text1": "The company has decided to hire more interns for the summer.", "text2": "Internships will be available at the company this summer.", "paraphrase": true}
+{"text1": "A new restaurant is opening in town that serves vegan cuisine.", "text2": "Vegan food options are now available in town with a new restaurant.", "paraphrase": false}
+{"text1": "The university is offering a new scholarship program for international students.", "text2": "International students can apply for a new scholarship program at the university.", "paraphrase": true}
+{"text1": "the company has a strong presence in the market", "text2": "it is well-known for its excellent products", "paraphrase": true}
+{"text1": "the company's success can be attributed to its innovative approach", "text2": "its groundbreaking ideas have enabled it to stay ahead of the competition", "paraphrase": false}
+{"text1": "the new employee is very knowledgeable about the industry", "text2": "he has a deep understanding of the market trends and demands", "paraphrase": true}
+{"text1": "the team is working diligently to meet the deadline", "text2": "they are putting in extra effort to ensure timely completion", "paraphrase": false}
+{"text1": "the customer service is exceptional", "text2": "it provides prompt and efficient solutions to clients", "paraphrase": true}
+{"text1": "the company has a strong commitment to sustainability", "text2": "it prioritizes environmental responsibility in all its operations", "paraphrase": false}
+{"text1": "the product is very user-friendly", "text2": "its interface is intuitive and easy to navigate", "paraphrase": true}
+{"text1": "the company's financials are stable", "text2": "it has a solid reputation for being financially secure", "paraphrase": false}
+{"text1": "the software is highly scalable", "text2": "it can accommodate large user bases and handle increased traffic", "paraphrase": true}
+{"text1": "the marketing strategy is effective", "text2": "it has resulted in a significant increase in brand awareness", "paraphrase": false}
+{"text1": "The new policy has been implemented.", "text2": "A new policy has been introduced.", "paraphrase": true}
+{"text1": "The company is experiencing financial difficulties.", "text2": "The company is facing financial struggles.", "paraphrase": false}
+{"text1": "The teacher was impressed with the student's performance.", "text2": "The instructor was pleased with the pupil's accomplishment.", "paraphrase": true}
+{"text1": "The research suggests that climate change is a significant threat.", "text2": "The study indicates that global warming poses a considerable risk.", "paraphrase": true}
+{"text1": "The new smartphone has been released.", "text2": "A fresh mobile device has come out.", "paraphrase": true}
+{"text1": "The company will lay off some employees.", "text2": "The firm plans to terminate certain staff members.", "paraphrase": false}
+{"text1": "The tourists got lost in the city.", "text2": "The travelers encountered difficulties navigating the urban area.", "paraphrase": true}
+{"text1": "The doctor diagnosed the patient with a serious illness.", "text2": "The physician identified the patient with a severe condition.", "paraphrase": true}
+{"text1": "The city is experiencing heavy rainfall.", "text2": "The town is receiving heavy precipitation.", "paraphrase": false}
+{"text1": "The book was written by a renowned author.", "text2": "The novel was penned by a celebrated writer.", "paraphrase": true}
+{"text1": "The new policy aims to reduce costs.", "text2": "The new initiative will minimize expenses.", "paraphrase": true}
+{"text1": "She is a talented young artist.", "text2": "This person has remarkable skills as an emerging artist.", "paraphrase": false}
+{"text1": "The hotel room was clean and comfortable.", "text2": "Our accommodation was tidy and cozy.", "paraphrase": true}
+{"text1": "He is a skilled programmer.", "text2": "This individual has proficiency in coding.", "paraphrase": false}
+{"text1": "The company will expand globally.", "text2": "We plan to enter the international market.", "paraphrase": true}
+{"text1": "She loves reading books.", "text2": "This person enjoys devouring novels.", "paraphrase": false}
+{"text1": "The new employee is still learning.", "text2": "Our newcomer requires guidance.", "paraphrase": true}
+{"text1": "They are very happy with the decision.", "text2": "Everyone is pleased with the outcome.", "paraphrase": false}
+{"text1": "The restaurant serves delicious food.", "text2": "This eatery provides delectable cuisine.", "paraphrase": true}
+{"text1": "He will attend the meeting.", "text2": "We have an invitation to this conference.", "paraphrase": false}
+{"text1": "The company is hiring.", "text2": "The company has an opening.", "paraphrase": true}
+{"text1": "The new policy will be implemented next month.", "text2": "Starting in January, we will implement the new policy.", "paraphrase": false}
+{"text1": "I love playing tennis.", "text2": "Tennis is one of my favorite sports.", "paraphrase": true}
+{"text1": "The capital of France is Paris.", "text2": "Paris is the capital and largest city of France.", "paraphrase": false}
+{"text1": "I will attend the meeting.", "text2": "I am going to be at the conference.", "paraphrase": true}
+{"text1": "The movie was very boring.", "text2": "I found the film incredibly dull.", "paraphrase": false}
+{"text1": "The book is written by John Smith.", "text2": "John Smith wrote this book.", "paraphrase": true}
+{"text1": "The weather is sunny today.", "text2": "It's a bright day outside.", "paraphrase": false}
+{"text1": "I am a software engineer.", "text2": "My profession is software engineering.", "paraphrase": true}
+{"text1": "The company has excellent customer service.", "text2": "We pride ourselves on our commitment to customer satisfaction.", "paraphrase": false}
+{"text1": "The company is expanding its operations.", "text2": "The business will be enlarged.", "paraphrase": false}
+{"text1": "She ate a healthy breakfast.", "text2": "She had a nutritious meal at the beginning of the day.", "paraphrase": true}
+{"text1": "He is very happy for her success.", "text2": "He feels proud of her accomplishment.", "paraphrase": false}
+{"text1": "The teacher gave the student a hard time.", "text2": "The instructor was quite tough on the pupil.", "paraphrase": true}
+{"text1": "I love playing tennis on weekends.", "text2": "I enjoy playing tennis at the weekend.", "paraphrase": false}
+{"text1": "The new policy will be implemented next month.", "text2": "The new rules will start being enforced in a month.", "paraphrase": true}
+{"text1": "The team won the game with ease.", "text2": "The squad triumphed over their opponents without difficulty.", "paraphrase": false}
+{"text1": "I am not a morning person.", "text2": "I do not like getting up early.", "paraphrase": true}
+{"text1": "The concert was amazing.", "text2": "The show was fantastic.", "paraphrase": false}
+{"text1": "She is studying English in China.", "text2": "She is learning English in China.", "paraphrase": true}
+{"text1": "The company has a strong presence in the global market.", "text2": "It is a leading player with significant international influence.", "paraphrase": true}
+{"text1": "The new policy aims to increase productivity and efficiency.", "text2": "It seeks to boost output and improve work processes.", "paraphrase": false}
+{"text1": "The product has received positive reviews from customers.", "text2": "Users have praised its quality and performance.", "paraphrase": true}
+{"text1": "The research found a significant correlation between the variables.", "text2": "A strong link was discovered between the two factors.", "paraphrase": false}
+{"text1": "The team is working on multiple projects simultaneously.", "text2": "They are handling several initiatives at the same time.", "paraphrase": true}
+{"text1": "The new employee is still getting familiar with the company culture.", "text2": "He is learning about our organizational norms and values.", "paraphrase": false}
+{"text1": "The sales figures have shown a steady increase over the past year.", "text2": "Revenue has been on the rise since last year.", "paraphrase": true}
+{"text1": "The software requires regular updates to function properly.", "text2": "It needs periodic patches to maintain its performance.", "paraphrase": false}
+{"text1": "The company will be expanding into new markets soon.", "text2": "We plan to enter several new regions in the near future.", "paraphrase": true}
+{"text1": "The project has encountered some unexpected delays.", "text2": "There have been some unforeseen setbacks.", "paraphrase": false}
+{"text1": "The new policy is beneficial.", "text2": "This change will improve our situation.", "paraphrase": true}
+{"text1": "She loved the outdoors.", "text2": "Nature had a strong appeal to her.", "paraphrase": false}
+{"text1": "I hate waiting in line.", "text2": "Long queues are frustrating.", "paraphrase": true}
+{"text1": "He is very intelligent.", "text2": "He has exceptional cognitive abilities.", "paraphrase": true}
+{"text1": "Life can be unpredictable.", "text2": "You never know what's going to happen next.", "paraphrase": false}
+{"text1": "The teacher gave a great lecture.", "text2": "She presented the material in an engaging manner.", "paraphrase": true}
+{"text1": "I enjoy reading books.", "text2": "Reading is one of my favorite activities.", "paraphrase": true}
+{"text1": "The city was very crowded.", "text2": "We found it difficult to move around.", "paraphrase": false}
+{"text1": "The movie had an exciting plot.", "text2": "It kept me on the edge of my seat.", "paraphrase": true}
+{"text1": "She is a talented singer.", "text2": "Her voice has great range and expression.", "paraphrase": true}
+{"text1": "The new policy is being implemented to increase efficiency", "text2": "the new regulation is being enforced to boost productivity", "paraphrase": false}
+{"text1": "The company has announced a major restructuring", "text2": "the firm is undergoing significant organizational changes", "paraphrase": true}
+{"text1": "The team has been working on the project for months", "text2": "the squad has been laboring over the initiative for several weeks", "paraphrase": false}
+{"text1": "The manager has denied any wrongdoing", "text2": "the supervisor has disavowed any misconduct", "paraphrase": true}
+{"text1": "The new product launch is highly anticipated", "text2": "the upcoming merchandise rollout is eagerly expected", "paraphrase": false}
+{"text1": "The customer feedback is invaluable", "text2": "the user input is priceless", "paraphrase": true}
+{"text1": "The company has laid off several employees", "text2": "the organization has let go of some staff members", "paraphrase": false}
+{"text1": "The new policy requires significant changes", "text2": "the updated regulation necessitates considerable adjustments", "paraphrase": true}
+{"text1": "The employee is seeking additional training", "text2": "the worker is looking for further education", "paraphrase": false}
+{"text1": "The project deadline has been extended", "text2": "the task timeline has been prolonged", "paraphrase": true}
+{"text1": "The new policy will likely reduce emissions.", "text2": "This policy change is expected to lower greenhouse gas production.", "paraphrase": true}
+{"text1": "The company will probably increase production.", "text2": "The firm expects to boost output in the coming months.", "paraphrase": false}
+{"text1": "The new employee is highly qualified.", "text2": "This employee has the necessary skills for the job.", "paraphrase": true}
+{"text1": "The current market trend suggests a decline.", "text2": "Market analysis indicates a downward trend.", "paraphrase": false}
+{"text1": "The team is confident in their abilities.", "text2": "The squad believes they can succeed.", "paraphrase": true}
+{"text1": "The new restaurant has received mixed reviews.", "text2": "This eatery has received a divided response from customers.", "paraphrase": false}
+{"text1": "The company will probably expand its operations.", "text2": "The firm is expected to increase its reach in the coming years.", "paraphrase": true}
+{"text1": "The new product launch was successful.", "text2": "This product rollout achieved positive results.", "paraphrase": false}
+{"text1": "The travel company will increase fares.", "text2": "The airline expects to raise ticket prices in the near future.", "paraphrase": true}
+{"text1": "The new employee is not a good fit.", "text2": "This person does not possess the necessary skills for the job.", "paraphrase": false}
+{"text1": "The company is hiring employees.", "text2": "The firm is looking for workers.", "paraphrase": true}
+{"text1": "She sells seashells on the beach.", "text2": "The girl sells seashells by the sea.", "paraphrase": false}
+{"text1": "The government regulates the economy.", "text2": "The authorities oversee the business sector.", "paraphrase": true}
+{"text1": "Life is short.", "text2": "Life is brief.", "paraphrase": false}
+{"text1": "The new policy has been implemented.", "text2": "The company has introduced a new regulation.", "paraphrase": true}
+{"text1": "I love reading books.", "text2": "I enjoy browsing through novels.", "paraphrase": false}
+{"text1": "The city is very crowded.", "text2": "The metropolis is densely populated.", "paraphrase": true}
+{"text1": "She is a talented musician.", "text2": "The girl has exceptional musical skills.", "paraphrase": false}
+{"text1": "We are going on vacation.", "text2": "Our family is taking a trip.", "paraphrase": true}
+{"text1": "He is a great athlete.", "text2": "The guy is an excellent sportsman.", "paraphrase": false}
+{"text1": "The city is crowded and noisy.", "text2": "It is very busy and loud.", "paraphrase": false}
+{"text1": "I love playing soccer.", "text2": "Soccer is my favorite sport.", "paraphrase": true}
+{"text1": "She is a great singer.", "text2": "The singer is excellent.", "paraphrase": false}
+{"text1": "He never shows up on time.", "text2": "He always arrives late.", "paraphrase": true}
+{"text1": "This cake is delicious.", "text2": "I love this cake it is very tasty.", "paraphrase": false}
+{"text1": "They are happy and healthy.", "text2": "The family looks great.", "paraphrase": true}
+{"text1": "She can speak three languages.", "text2": "She knows English, Spanish, and French.", "paraphrase": false}
+{"text1": "He is a very skilled programmer.", "text2": "He knows how to code.", "paraphrase": true}
+{"text1": "They are having fun at the beach.", "text2": "The kids play in the water.", "paraphrase": false}
+{"text1": "She loves reading books.", "text2": "I like reading books too.", "paraphrase": true}
+{"text1": "The process is automatic.", "text2": "It happens without intervention.", "paraphrase": true}
+{"text1": "This method is efficient.", "text2": "It saves time and resources.", "paraphrase": false}
+{"text1": "The outcome is predictable.", "text2": "Results are certain.", "paraphrase": true}
+{"text1": "There are no hidden costs.", "text2": "No surprises await you.", "paraphrase": false}
+{"text1": "This solution is reliable.", "text2": "It can be counted on.", "paraphrase": true}
+{"text1": "The process requires minimal effort.", "text2": "It's easy to implement.", "paraphrase": false}
+{"text1": "Results are guaranteed.", "text2": "Outcomes are certain.", "paraphrase": true}
+{"text1": "This method is flexible.", "text2": "It can adapt to changing needs.", "paraphrase": false}
+{"text1": "The outcome is positive.", "text2": "Results are favorable.", "paraphrase": true}
+{"text1": "There are no risks involved.", "text2": "No threats or dangers exist.", "paraphrase": false}
+{"text1": "The teacher is grading the papers.", "text2": "She is evaluating the assignments.", "paraphrase": false}
+{"text1": "The doctor is writing prescriptions.", "text2": "He is issuing medications.", "paraphrase": true}
+{"text1": "The engineer is designing a new bridge.", "text2": "She is creating an infrastructure project.", "paraphrase": false}
+{"text1": "The artist is painting a beautiful landscape.", "text2": "He is capturing a serene scene.", "paraphrase": true}
+{"text1": "The computer is running slowly.", "text2": "It is experiencing technical difficulties.", "paraphrase": true}
+{"text1": "The company is hiring new employees.", "text2": "They are seeking fresh talent.", "paraphrase": false}
+{"text1": "The student is struggling with math.", "text2": "She is having trouble with equations.", "paraphrase": true}
+{"text1": "The team is working on a new project.", "text2": "They are collaborating on an initiative.", "paraphrase": false}
+{"text1": "The book is very interesting.", "text2": "It is captivating readers.", "paraphrase": true}
+{"text1": "The musician is playing a beautiful melody.", "text2": "He is creating soothing music.", "paraphrase": true}
+{"text1": "The new policy has been put in place.", "text2": "A new rule has been established.", "paraphrase": false}
+{"text1": "The company is looking to expand its operations.", "text2": "The business aims to increase its reach.", "paraphrase": true}
+{"text1": "The teacher provided clear instructions.", "text2": "The instructor offered concise guidance.", "paraphrase": false}
+{"text1": "The new smartphone has a large screen.", "text2": "The latest mobile device boasts a spacious display.", "paraphrase": true}
+{"text1": "The city is experiencing heavy rainfall.", "text2": "The town is getting pounded by rain.", "paraphrase": false}
+{"text1": "The company will be hiring new employees.", "text2": "The business plans to add more staff.", "paraphrase": true}
+{"text1": "The museum has a vast collection.", "text2": "The institution boasts an impressive array of artifacts.", "paraphrase": false}
+{"text1": "The restaurant serves delicious food.", "text2": "The eatery offers tasty cuisine.", "paraphrase": true}
+{"text1": "The team is preparing for the championship.", "text2": "The squad is gearing up for the title match.", "paraphrase": false}
+{"text1": "The new employee needs training.", "text2": "The newbie requires onboarding.", "paraphrase": true}
+{"text1": "The new policy will increase productivity.", "text2": "This new regulation will boost efficiency.", "paraphrase": false}
+{"text1": "The teacher gave a clear explanation.", "text2": "The instructor provided a concise summary.", "paraphrase": true}
+{"text1": "The company is facing financial difficulties.", "text2": "The firm is experiencing economic challenges.", "paraphrase": false}
+{"text1": "The new restaurant offers a unique experience.", "text2": "This eatery provides an exclusive atmosphere.", "paraphrase": true}
+{"text1": "The students were unable to complete the assignment.", "text2": "The pupils failed to finish the task.", "paraphrase": false}
+{"text1": "The city is located near the coast.", "text2": "The town is situated close to the ocean.", "paraphrase": true}
+{"text1": "The doctor prescribed medication.", "text2": "The physician recommended treatment.", "paraphrase": false}
+{"text1": "The team won the championship.", "text2": "The squad secured the title.", "paraphrase": true}
+{"text1": "The museum is home to ancient artifacts.", "text2": "The institution preserves historical relics.", "paraphrase": false}
+{"text1": "The train arrived late.", "text2": "The locomotive arrived behind schedule.", "paraphrase": true}
+{"text1": "the company will increase its production levels.", "text2": "it plans to boost its manufacturing operations.", "paraphrase": true}
+{"text1": "the new policy aims to reduce carbon emissions.", "text2": "the government seeks to decrease greenhouse gas output.", "paraphrase": false}
+{"text1": "many people are concerned about the impact of climate change.", "text2": "a significant number of individuals are worried about global warming.", "paraphrase": true}
+{"text1": "the researchers have made a groundbreaking discovery.", "text2": "scientists have achieved a major breakthrough.", "paraphrase": false}
+{"text1": "the city is facing severe flooding due to heavy rainfall.", "text2": "severe weather has caused extensive damage and flooding in the region.", "paraphrase": true}
+{"text1": "the team has won several awards for their innovative project.", "text2": "a group of experts has been recognized for their outstanding achievement.", "paraphrase": false}
+{"text1": "the company is expanding its operations to new markets.", "text2": "it plans to increase its presence in other countries.", "paraphrase": true}
+{"text1": "the new product will be launched next month.", "text2": "a new item will be released soon.", "paraphrase": false}
+{"text1": "the government has announced a significant increase in funding.", "text2": "officials have pledged to boost financial support.", "paraphrase": true}
+{"text1": "the service is available 24/7.", "text2": "customers can access it at any time.", "paraphrase": false}
+{"text1": "The new policy has been implemented.", "text2": "A new regulation has been put in place.", "paraphrase": false}
+{"text1": "The company is facing financial difficulties.", "text2": "The firm is experiencing economic strain.", "paraphrase": true}
+{"text1": "The teacher gave the students a homework assignment.", "text2": "The instructor assigned homework to the pupils.", "paraphrase": false}
+{"text1": "The new employee was very nervous.", "text2": "The fresh recruit was feeling anxious.", "paraphrase": true}
+{"text1": "The city is known for its rich history.", "text2": "The town boasts a fascinating past.", "paraphrase": false}
+{"text1": "The students worked hard on their project.", "text2": "The pupils put in considerable effort into their task.", "paraphrase": true}
+{"text1": "The company is looking for talented employees.", "text2": "The firm seeks skilled workers.", "paraphrase": false}
+{"text1": "The weather forecast predicts rain.", "text2": "The meteorological report indicates precipitation.", "paraphrase": true}
+{"text1": "The new restaurant offers a delicious menu.", "text2": "The eatery provides tasty food options.", "paraphrase": false}
+{"text1": "The athlete has won several championships.", "text2": "The sportsman has claimed multiple titles.", "paraphrase": true}
+{"text1": "The new policy aims to reduce carbon emissions.", "text2": "The company is taking steps to decrease its environmental impact.", "paraphrase": true}
+{"text1": "The study found a strong correlation between exercise and mental health.", "text2": "Researchers discovered a significant link between physical activity and emotional well-being.", "paraphrase": false}
+{"text1": "The city is facing a severe shortage of affordable housing.", "text2": "There is a critical lack of affordable residences in the city.", "paraphrase": true}
+{"text1": "The company will hire additional staff to meet growing demand.", "text2": "The firm plans to expand its workforce to accommodate increased customer interest.", "paraphrase": false}
+{"text1": "The new restaurant offers a unique fusion of cuisines.", "text2": "The eatery combines different culinary styles for a one-of-a-kind dining experience.", "paraphrase": true}
+{"text1": "The government is introducing stricter regulations on financial transactions.", "text2": "New rules will be put in place to regulate the flow of money.", "paraphrase": false}
+{"text1": "The charity focuses on supporting local communities.", "text2": "The organization prioritizes helping people in their own neighborhoods.", "paraphrase": true}
+{"text1": "The teacher is experienced in teaching students with special needs.", "text2": "The instructor has expertise in educating children with unique requirements.", "paraphrase": false}
+{"text1": "The company will invest heavily in renewable energy sources.", "text2": "The firm is committed to using sustainable energy options.", "paraphrase": true}
+{"text1": "The new policy aims to promote diversity and inclusion in the workplace.", "text2": "The initiative seeks to create a more inclusive environment for employees.", "paraphrase": false}
+{"text1": "The new policy has been implemented nationwide.", "text2": "The government has enforced a national policy.", "paraphrase": false}
+{"text1": "The company is expanding its operations globally.", "text2": "The firm is increasing its international presence.", "paraphrase": true}
+{"text1": "The new product line features innovative designs.", "text2": "The company has introduced a cutting-edge product range.", "paraphrase": false}
+{"text1": "The city will experience a heatwave this summer.", "text2": "A heatwave is predicted for the city during the summer months.", "paraphrase": true}
+{"text1": "The team won the championship after a long season.", "text2": "The squad secured the title following a grueling competition.", "paraphrase": false}
+{"text1": "The new smartphone has impressive camera capabilities.", "text2": "The latest mobile device boasts exceptional photography features.", "paraphrase": true}
+{"text1": "The restaurant serves delicious food and great service.", "text2": "The eatery offers delectable cuisine along with top-notch hospitality.", "paraphrase": false}
+{"text1": "The concert will take place at midnight.", "text2": "The live performance is scheduled to start at high noon.", "paraphrase": true}
+{"text1": "The project has faced several setbacks and delays.", "text2": "The initiative encountered numerous obstacles, resulting in missed deadlines.", "paraphrase": false}
+{"text1": "The country will experience a severe drought this year.", "text2": "A prolonged period of drought is forecast for the nation.", "paraphrase": true}
+{"text1": "The new policy aims to reduce carbon emissions", "text2": "the new policy seeks to lower its carbon footprint", "paraphrase": true}
+{"text1": "The company is expanding into new markets", "text2": "the company is looking to grow globally", "paraphrase": false}
+{"text1": "The research focused on renewable energy sources", "text2": "the study centered around clean energy options", "paraphrase": true}
+{"text1": "The new employee was very nervous", "text2": "the newcomer appeared anxious", "paraphrase": true}
+{"text1": "The product has improved significantly", "text2": "the upgrade has shown notable enhancements", "paraphrase": false}
+{"text1": "The team worked efficiently", "text2": "the group performed with speed and accuracy", "paraphrase": true}
+{"text1": "The company is outsourcing tasks", "text2": "the firm is delegating duties", "paraphrase": true}
+{"text1": "The customer service was excellent", "text2": "the support provided was outstanding", "paraphrase": false}
+{"text1": "The software has multiple features", "text2": "the application boasts several functionalities", "paraphrase": true}
+{"text1": "The travel destination is known for its beaches", "text2": "the tourist spot is famous for its coastlines", "paraphrase": true}
+{"text1": "The company has hired more employees.", "text2": "The business has increased its workforce.", "paraphrase": false}
+{"text1": "She ate a sandwich for lunch.", "text2": "She had a ham and cheese wrap.", "paraphrase": true}
+{"text1": "I love playing soccer.", "text2": "I enjoy watching football.", "paraphrase": false}
+{"text1": "He is going to the store.", "text2": "He plans to buy some milk.", "paraphrase": true}
+{"text1": "The dog is very happy.", "text2": "The cat seems content.", "paraphrase": false}
+{"text1": "I will meet you at 5pm.", "text2": "We will see each other at five o'clock.", "paraphrase": true}
+{"text1": "She is a great singer.", "text2": "She has a beautiful voice.", "paraphrase": false}
+{"text1": "The movie was very exciting.", "text2": "The film was thrilling.", "paraphrase": true}
+{"text1": "He is feeling sick.", "text2": "He is not well.", "paraphrase": false}
+{"text1": "I love reading books.", "text2": "I enjoy browsing through novels.", "paraphrase": true}
+{"text1": "The new policy has been implemented to reduce waste.", "text2": "The company is taking steps to decrease its environmental impact.", "paraphrase": true}
+{"text1": "The manager was very disappointed with the team's performance.", "text2": "The employee received a poor evaluation from their supervisor.", "paraphrase": false}
+{"text1": "The new smartphone features a high-quality camera.", "text2": "The latest model has an impressive lens and advanced software.", "paraphrase": true}
+{"text1": "The doctor prescribed medication to treat the patient's condition.", "text2": "The nurse administered treatment to alleviate symptoms.", "paraphrase": false}
+{"text1": "The teacher explained the concept to the students in a clear manner.", "text2": "The professor broke down the material into manageable parts.", "paraphrase": true}
+{"text1": "The company is expanding its operations to new markets.", "text2": "The firm plans to increase its reach by entering additional regions.", "paraphrase": false}
+{"text1": "The city's population is growing rapidly.", "text2": "Urbanization has led to a significant increase in residents.", "paraphrase": true}
+{"text1": "The new restaurant serves delicious Italian cuisine.", "text2": "The eatery offers tasty pasta dishes and wood-fired pizzas.", "paraphrase": false}
+{"text1": "The government has announced plans to invest in renewable energy.", "text2": "The administration aims to promote sustainable power sources.", "paraphrase": true}
+{"text1": "The student's artwork was selected for the school exhibition.", "text2": "The pupil's creation was chosen from a pool of submissions.", "paraphrase": false}
+{"text1": "The project was a success.", "text2": "it was completed on time", "paraphrase": true}
+{"text1": "The teacher is very strict.", "text2": "he has high expectations", "paraphrase": false}
+{"text1": "I love playing football.", "text2": "i enjoy the sport", "paraphrase": true}
+{"text1": "This cake is delicious.", "text2": "it tastes great", "paraphrase": true}
+{"text1": "The company is expanding globally.", "text2": "they are increasing their reach", "paraphrase": false}
+{"text1": "I am feeling sad today.", "text2": "i am not happy", "paraphrase": true}
+{"text1": "The new policy is unpopular.", "text2": "people do not like it", "paraphrase": true}
+{"text1": "The student did well on the test.", "text2": "they scored high", "paraphrase": true}
+{"text1": "I am a vegetarian.", "text2": "i only eat plants", "paraphrase": true}
+{"text1": "The weather is cold today.", "text2": "it is chilly outside", "paraphrase": false}
+{"text1": "The new policy has been implemented.", "text2": "A new rule has been put in place.", "paraphrase": true}
+{"text1": "The teacher was very happy with the student's progress.", "text2": "The instructor was delighted with the pupil's achievements.", "paraphrase": false}
+{"text1": "The company is expanding its operations globally.", "text2": "The firm is increasing its international presence.", "paraphrase": true}
+{"text1": "The tourists got lost in the city.", "text2": "The visitors became disoriented in the town.", "paraphrase": false}
+{"text1": "The new product was a huge success.", "text2": "The latest item proved to be very popular.", "paraphrase": true}
+{"text1": "The team is working hard to meet the deadline.", "text2": "The group is diligently striving to achieve the target date.", "paraphrase": false}
+{"text1": "The city has a rich cultural heritage.", "text2": "The town boasts an abundance of cultural riches.", "paraphrase": true}
+{"text1": "The students were very excited about the field trip.", "text2": "The pupils were thrilled at the prospect of the excursion.", "paraphrase": false}
+{"text1": "The restaurant serves delicious food.", "text2": "The eatery offers tasty cuisine.", "paraphrase": true}
+{"text1": "The company is launching a new marketing campaign.", "text2": "The firm is introducing a fresh advertising strategy.", "paraphrase": false}
+{"text1": "The teacher asked the students to complete their homework.", "text2": "The teacher requested that students finish their work.", "paraphrase": false}
+{"text1": "The new employee was very nervous on his first day.", "text2": "The new staff member was extremely anxious on his initial working day.", "paraphrase": true}
+{"text1": "The company is looking for someone with excellent communication skills.", "text2": "The organization seeks a person with outstanding verbal and written abilities.", "paraphrase": false}
+{"text1": "The city has many parks and green spaces.", "text2": "There are numerous urban gardens in the town.", "paraphrase": true}
+{"text1": "The tourists visited the ancient ruins.", "text2": "Travelers explored the old historical site.", "paraphrase": false}
+{"text1": "The student did not understand the assignment.", "text2": "The pupil was unable to grasp the task.", "paraphrase": true}
+{"text1": "The company has many job openings.", "text2": "There are numerous available positions at the firm.", "paraphrase": false}
+{"text1": "The weather is cold and rainy today.", "text2": "It is chilly and wet outside today.", "paraphrase": true}
+{"text1": "The new policy has reduced costs.", "text2": "The implemented rule has decreased expenses.", "paraphrase": false}
+{"text1": "The teacher gave the students a lot of homework.", "text2": "The instructor assigned an excessive amount of work to the pupils.", "paraphrase": true}
+{"text1": "The company is launching a new product.", "text2": "La empresa lanz\u00f3 un nuevo producto.", "paraphrase": true}
+{"text1": "The new employee is very experienced.", "text2": "El nuevo empleado es muy experimentado.", "paraphrase": false}
+{"text1": "The team is working on a project.", "text2": "La equipe est\u00e9 en train de travailler sur un projet.", "paraphrase": true}
+{"text1": "The customer service is excellent.", "text2": "El servicio al cliente es excelente.", "paraphrase": false}
+{"text1": "The company is hiring a new employee.", "text2": "La empresa est\u00e9 de busca un nuevo empleado.", "paraphrase": true}
+{"text1": "The product has a lot of features.", "text2": "El producto tiene muchas funciones.", "paraphrase": false}
+{"text1": "The team is feeling very happy.", "text2": "La equipe est\u00e9 se sentant tr\u00e8s heureux.", "paraphrase": true}
+{"text1": "The customer is very satisfied.", "text2": "El cliente est\u00e0 muy satisfecho.", "paraphrase": false}
+{"text1": "The company has a lot of employees.", "text2": "La empresa tiene un gran nombre de empleados.", "paraphrase": true}
+{"text1": "The project is almost finished.", "text2": "El projet est \u00e0 presque termin\u00e9.", "paraphrase": false}
+{"text1": "The new policy is not being enforced.", "text2": "The new policy is not implemented.", "paraphrase": false}
+{"text1": "She prefers hiking over reading.", "text2": "She likes hiking more than reading.", "paraphrase": true}
+{"text1": "The company will hire more employees.", "text2": "The company is going to employ additional staff.", "paraphrase": false}
+{"text1": "He does not like coffee.", "text2": "He dislikes coffee.", "paraphrase": true}
+{"text1": "The book is on the bestseller list.", "text2": "The book is featured on the top-selling books.", "paraphrase": false}
+{"text1": "They will attend the meeting.", "text2": "They are going to be at the meeting.", "paraphrase": true}
+{"text1": "The teacher assigned homework.", "text2": "The instructor handed out assignments.", "paraphrase": false}
+{"text1": "She has two dogs.", "text2": "She owns two canines.", "paraphrase": true}
+{"text1": "The concert starts at 8pm.", "text2": "The show begins at eight o'clock.", "paraphrase": false}
+{"text1": "He is a good driver.", "text2": "He drives well.", "paraphrase": true}
+{"text1": "The teacher assigned a difficult project.", "text2": "The student was given a challenging task by the teacher.", "paraphrase": true}
+{"text1": "The city is very crowded.", "text2": "The metropolis is densely populated.", "paraphrase": false}
+{"text1": "She ate a sandwich for lunch.", "text2": "She consumed a meal consisting of a sandwich.", "paraphrase": true}
+{"text1": "He is really good at basketball.", "text2": "He possesses exceptional skills in the sport of basketball.", "paraphrase": false}
+{"text1": "The movie was very long.", "text2": "The film lasted for an extended period.", "paraphrase": true}
+{"text1": "I love playing tennis.", "text2": "I have a strong affinity for the sport of tennis.", "paraphrase": false}
+{"text1": "The dog is happy.", "text2": "The canine animal appears to be content.", "paraphrase": true}
+{"text1": "He bought a new car.", "text2": "He acquired a fresh vehicle.", "paraphrase": false}
+{"text1": "The weather forecast predicts rain.", "text2": "According to the meteorological prediction, precipitation is expected.", "paraphrase": true}
+{"text1": "I am feeling tired.", "text2": "I experience fatigue.", "paraphrase": false}
+{"text1": "The new policy will be implemented next week", "text2": "La nueva pol\u00edtica se implementar\u00e1 la semana que viene", "paraphrase": false}
+{"text1": "The teacher gave us extra homework", "text2": "El profesor nos dio m\u00e1s trabajo adicional", "paraphrase": true}
+{"text1": "I love playing soccer", "text2": "Me encanta jugar f\u00fatbol", "paraphrase": false}
+{"text1": "The company is hiring new employees", "text2": "La empresa est\u00e1 contratando nuevos empleados", "paraphrase": true}
+{"text1": "I have a big test tomorrow", "text2": "Tengo un gran examen ma\u00f1ana", "paraphrase": false}
+{"text1": "The city is very crowded", "text2": "La ciudad es muy congestionada", "paraphrase": true}
+{"text1": "I want to travel more", "text2": "Quiero viajar m\u00e1s", "paraphrase": false}
+{"text1": "The restaurant has good food", "text2": "El restaurante tiene comida buena", "paraphrase": true}
+{"text1": "I am tired of studying", "text2": "Me cans\u00e9 de estudiar", "paraphrase": false}
+{"text1": "The new movie is very exciting", "text2": "La nueva pel\u00edcula es muy emocionante", "paraphrase": true}
+{"text1": "The new policy is strict.", "text2": "This means we have to be very careful.", "paraphrase": true}
+{"text1": "We must follow the rules.", "text2": "There are no exceptions.", "paraphrase": false}
+{"text1": "It's not just about following rules.", "text2": "It's about being responsible.", "paraphrase": true}
+{"text1": "The new law is very restrictive.", "text2": "This limits our freedom.", "paraphrase": false}
+{"text1": "We need to be more disciplined.", "text2": "There are consequences for not following the rules.", "paraphrase": true}
+{"text1": "The policy is quite strict.", "text2": "It's not easy to comply with.", "paraphrase": false}
+{"text1": "We have to be careful.", "text2": "There are risks involved.", "paraphrase": true}
+{"text1": "The new rule is very strict.", "text2": "This means we have to change our behavior.", "paraphrase": false}
+{"text1": "It's not just about rules.", "text2": "It's about being accountable.", "paraphrase": true}
+{"text1": "The policy is quite restrictive.", "text2": "This limits our options.", "paraphrase": false}
+{"text1": "The company is going to lay off employees.", "text2": "The company will be reducing its workforce.", "paraphrase": false}
+{"text1": "I love playing basketball.", "text2": "I enjoy playing hoops.", "paraphrase": true}
+{"text1": "The new policy has been implemented.", "text2": "A new rule is now in effect.", "paraphrase": false}
+{"text1": "This city is very crowded.", "text2": "The city is packed with people.", "paraphrase": true}
+{"text1": "I am feeling tired today.", "text2": "I'm exhausted", "paraphrase": false}
+{"text1": "The teacher gave a good lesson.", "text2": "The instructor provided an excellent class.", "paraphrase": true}
+{"text1": "The weather is very sunny.", "text2": "It's a beautiful day outside.", "paraphrase": false}
+{"text1": "I need to buy some milk.", "text2": "I have to get some dairy products.", "paraphrase": true}
+{"text1": "This restaurant has good food.", "text2": "The eatery serves tasty meals.", "paraphrase": false}
+{"text1": "I am going to the beach.", "text2": "I'm heading to the coast.", "paraphrase": true}
+{"text1": "The cat is sleeping.", "text2": "The dog is resting.", "paraphrase": false}
+{"text1": "She is going to the store.", "text2": "He is heading out.", "paraphrase": true}
+{"text1": "I love reading books.", "text2": "My favorite pastime is reading.", "paraphrase": false}
+{"text1": "The capital of France is Paris.", "text2": "Paris is the city of France.", "paraphrase": true}
+{"text1": "The teacher gave a quiz.", "text2": "The instructor administered an assessment.", "paraphrase": false}
+{"text1": "I will attend the meeting.", "text2": "I shall participate in the conference.", "paraphrase": true}
+{"text1": "Life is short.", "text2": "We have a limited amount of time.", "paraphrase": false}
+{"text1": "The movie starts at 7pm.", "text2": "The screening commences at seven o'clock.", "paraphrase": true}
+{"text1": "I am excited to travel.", "text2": "I look forward to exploring new places.", "paraphrase": false}
+{"text1": "It is raining outside.", "text2": "Weather conditions are unfavorable today.", "paraphrase": true}
+{"text1": "The new policy aims to reduce carbon emissions.", "text2": "This plan seeks to decrease greenhouse gas production.", "paraphrase": true}
+{"text1": "The company is launching a new product line.", "text2": "A fresh batch of goods is set to hit the market.", "paraphrase": false}
+{"text1": "The research team is making great progress.", "text2": "Advances are being made in their field of study.", "paraphrase": true}
+{"text1": "The new employee is still getting familiar with the company culture.", "text2": "The newcomer is learning about our workplace norms.", "paraphrase": false}
+{"text1": "The city is experiencing a severe heatwave.", "text2": "A scorching temperature wave is sweeping through the region.", "paraphrase": true}
+{"text1": "The teacher has assigned homework for the weekend.", "text2": "There's additional work for students to complete outside of class.", "paraphrase": false}
+{"text1": "The hotel offers a luxurious experience.", "text2": "This accommodation provides an upscale atmosphere.", "paraphrase": true}
+{"text1": "The government is investing in renewable energy sources.", "text2": "Authorities are putting money into sustainable power generation.", "paraphrase": false}
+{"text1": "The student's essay was well-written and insightful.", "text2": "This young writer produced a clear and thoughtful piece.", "paraphrase": true}
+{"text1": "The team is feeling confident ahead of the competition.", "text2": "We're in high spirits before our match.", "paraphrase": false}
+{"text1": "the company will increase prices", "text2": "the business will raise its costs", "paraphrase": true}
+{"text1": "many people are unhappy with the current situation", "text2": "a lot of individuals are dissatisfied with their circumstances", "paraphrase": false}
+{"text1": "the new policy is being implemented today", "text2": "the new regulation goes into effect immediately", "paraphrase": true}
+{"text1": "the teacher is giving a lesson on fractions", "text2": "the instructor is teaching about divisions and parts", "paraphrase": false}
+{"text1": "the student scored high on the test", "text2": "the pupil obtained a good mark on their evaluation", "paraphrase": true}
+{"text1": "the dog is running in the park", "text2": "the canine is sprinting around the grounds", "paraphrase": false}
+{"text1": "the baby is laughing at the clown", "text2": "the infant is chuckling at the performer", "paraphrase": true}
+{"text1": "the manager is meeting with the team", "text2": "the supervisor is having a conference with the staff", "paraphrase": false}
+{"text1": "the computer needs to be restarted", "text2": "the machine requires a reboot", "paraphrase": true}
+{"text1": "the flowers are blooming in the garden", "text2": "the blossoms are developing in the grounds", "paraphrase": false}
+{"text1": "The new policy aims to reduce carbon emissions", "text2": "the government is taking steps to decrease greenhouse gas production", "paraphrase": true}
+{"text1": "The company will launch a new product next month", "text2": "next month the firm will introduce its latest offering", "paraphrase": false}
+{"text1": "The researchers found a significant correlation between the variables", "text2": "a relationship was discovered between the two factors", "paraphrase": true}
+{"text1": "The teacher asked the students to write a short essay", "text2": "the instructor assigned a brief writing task", "paraphrase": false}
+{"text1": "The new restaurant serves Italian food", "text2": "it offers dishes typical of italian cuisine", "paraphrase": true}
+{"text1": "The team won the championship game", "text2": "the squad emerged victorious in the final match", "paraphrase": false}
+{"text1": "The city is known for its rich history", "text2": "the town boasts a wealth of historical significance", "paraphrase": true}
+{"text1": "The company will hire new employees soon", "text2": "soon the firm plans to recruit additional staff members", "paraphrase": false}
+{"text1": "The park is open from 9 am to 5 pm", "text2": "the gardens are accessible from 9am to 5pm daily", "paraphrase": true}
+{"text1": "The movie was a box office hit", "text2": "the film achieved commercial success", "paraphrase": false}
+{"text1": "The company will increase the salary.", "text2": "The employee's wages are going to rise.", "paraphrase": true}
+{"text1": "She is a very experienced programmer.", "text2": "This developer has extensive coding background.", "paraphrase": false}
+{"text1": "I will attend the meeting.", "text2": "I am scheduled to be present at the conference.", "paraphrase": true}
+{"text1": "The customer service is excellent.", "text2": "Their support is top-notch and efficient.", "paraphrase": false}
+{"text1": "We will meet at 5 o'clock.", "text2": "Our appointment time is five in the evening.", "paraphrase": true}
+{"text1": "This city has many cultural events.", "text2": "The city boasts numerous cultural happenings.", "paraphrase": false}
+{"text1": "I really enjoy this course.", "text2": "I am thoroughly enjoying this class.", "paraphrase": true}
+{"text1": "She is not a morning person.", "text2": "This individual is not an early riser.", "paraphrase": false}
+{"text1": "The new policy will be implemented soon.", "text2": "They are planning to introduce the new rules shortly.", "paraphrase": true}
+{"text1": "He is very good at sports.", "text2": "This athlete has exceptional athletic abilities.", "paraphrase": false}
+{"text1": "The new policy will be implemented immediately.", "text2": "This new rule is effective from today.", "paraphrase": false}
+{"text1": "She has excellent communication skills.", "text2": "Their conversation flowed smoothly.", "paraphrase": true}
+{"text1": "I love reading books on history.", "text2": "Reading historical novels is my favorite pastime.", "paraphrase": true}
+{"text1": "The company will hire more employees.", "text2": "They plan to increase their staff soon.", "paraphrase": true}
+{"text1": "I am not a morning person.", "text2": "I'm not a fan of waking up early.", "paraphrase": false}
+{"text1": "The movie was very well made.", "text2": "It had excellent production values.", "paraphrase": true}
+{"text1": "He is a talented musician.", "text2": "She has impressive musical skills.", "paraphrase": false}
+{"text1": "I will attend the meeting.", "text2": "I plan to be there for the conference.", "paraphrase": true}
+{"text1": "The teacher was very supportive.", "text2": "Our instructor was encouraging and helpful.", "paraphrase": true}
+{"text1": "The new restaurant is located downtown.", "text2": "The eatery is situated in the city center.", "paraphrase": false}
+{"text1": "The company will launch a new product.", "text2": "A new product is set to be launched by the company.", "paraphrase": true}
+{"text1": "The teacher assigned homework after class.", "text2": "After the class, the teacher gave homework.", "paraphrase": false}
+{"text1": "The customer service number is available 24/7.", "text2": "You can reach us at any time with our customer service number.", "paraphrase": true}
+{"text1": "The meeting will be held on Friday at 2pm.", "text2": "We have scheduled a meeting for this Friday at two o'clock in the afternoon.", "paraphrase": false}
+{"text1": "The new policy is effective immediately.", "text2": "Our new policy is active now and needs to be followed.", "paraphrase": true}
+{"text1": "The city is located on the east coast.", "text2": "East Coast City is situated on the eastern side of our country.", "paraphrase": false}
+{"text1": "The company will increase salaries by 10%.", "text2": "Our salary increases to ten percent will be effective from next month.", "paraphrase": true}
+{"text1": "The online store is open for business.", "text2": "We are now available for business on our e-store.", "paraphrase": false}
+{"text1": "The meeting has been cancelled due to weather.", "text2": "Unfortunately, we have to cancel the meeting because of bad weather.", "paraphrase": true}
+{"text1": "The customer will receive a refund.", "text2": "You will get your money back from us.", "paraphrase": false}
+{"text1": "The teacher assigned homework every night.", "text2": "The instructor gave students homework each evening.", "paraphrase": false}
+{"text1": "She has a strong opinion on the matter.", "text2": "She strongly believes in her point of view.", "paraphrase": true}
+{"text1": "He is studying English in his free time.", "text2": "In his spare hours, he is learning English.", "paraphrase": false}
+{"text1": "The new policy has been met with resistance.", "text2": "The implemented rule is facing opposition.", "paraphrase": true}
+{"text1": "They live in a small apartment.", "text2": "Their residence is compact.", "paraphrase": false}
+{"text1": "He will attend the meeting if it is held during his lunch break.", "text2": "If he can fit it into his schedule, he will join the conference.", "paraphrase": true}
+{"text1": "The company has been in business for over 20 years.", "text2": "The firm has operated successfully for more than two decades.", "paraphrase": false}
+{"text1": "She is a talented artist with many awards under her belt.", "text2": "She boasts an impressive array of accolades.", "paraphrase": true}
+{"text1": "We should take a break from work and relax.", "text2": "It would be good to step away from the office and unwind.", "paraphrase": false}
+{"text1": "The hotel staff were friendly and helpful.", "text2": "The resort employees were courteous and accommodating.", "paraphrase": true}
+{"text1": "The new policy is being implemented immediately.", "text2": "This new rule will take effect right away.", "paraphrase": true}
+{"text1": "She refused the offer.", "text2": "She declined the proposal.", "paraphrase": false}
+{"text1": "The company is downsizing.", "text2": "The firm is reducing its workforce.", "paraphrase": true}
+{"text1": "It is not possible.", "text2": "That can't be done.", "paraphrase": false}
+{"text1": "The new employee was very happy.", "text2": "She was thrilled with her new job.", "paraphrase": true}
+{"text1": "The weather forecast says rain tomorrow.", "text2": "Tomorrow's forecast is calling for rain.", "paraphrase": false}
+{"text1": "The teacher gave the student an A.", "text2": "The instructor awarded the pupil with a high grade.", "paraphrase": true}
+{"text1": "This product is expensive.", "text2": "It's pricey.", "paraphrase": false}
+{"text1": "I love reading books.", "text2": "I enjoy reading novels.", "paraphrase": true}
+{"text1": "The project will be completed by the end of the month.", "text2": "We should finish this project by month's end.", "paraphrase": false}
+{"text1": "The company has announced a significant increase in revenue.", "text2": "A substantial boost in revenue has been reported by the company.", "paraphrase": false}
+{"text1": "The CEO expressed his satisfaction with the current state of the business.", "text2": "The CEO is pleased with the company's performance so far.", "paraphrase": true}
+{"text1": "The new policy aims to reduce waste and increase efficiency.", "text2": "A plan has been implemented to decrease waste and improve productivity.", "paraphrase": false}
+{"text1": "The team is working diligently to meet the deadline.", "text2": "Team members are putting in extra effort to fulfill the deadline.", "paraphrase": true}
+{"text1": "The customer service department is understaffed.", "text2": "There are not enough staff members at the customer service department.", "paraphrase": false}
+{"text1": "The new employee is adjusting well to the company culture.", "text2": "The newest team member is fitting in seamlessly with the office environment.", "paraphrase": true}
+{"text1": "The project has hit several unexpected delays.", "text2": "The initiative faced several unforeseen setbacks.", "paraphrase": false}
+{"text1": "The marketing strategy is being revised to better target the audience.", "text2": "The marketing approach is being tweaked to improve its effectiveness.", "paraphrase": true}
+{"text1": "The financial reports show a significant decrease in profits.", "text2": "Financial results indicate a substantial drop in earnings.", "paraphrase": false}
+{"text1": "The training program will focus on improving communication skills.", "text2": "A course has been designed to enhance employees' ability to communicate effectively.", "paraphrase": true}
+{"text1": "The new policy aims to reduce carbon emissions.", "text2": "The company is implementing a plan to lower its environmental impact.", "paraphrase": true}
+{"text1": "The manager will be responsible for the project's progress.", "text2": "The supervisor will oversee the project's development.", "paraphrase": false}
+{"text1": "The team worked hard to meet the deadline.", "text2": "The group put in a lot of effort to complete the task on time.", "paraphrase": true}
+{"text1": "The city has strict traffic laws.", "text2": "There are severe penalties for breaking the rules.", "paraphrase": true}
+{"text1": "I love reading books.", "text2": "Reading is one of my favorite hobbies.", "paraphrase": false}
+{"text1": "The company will hire new employees.", "text2": "The organization plans to expand its workforce.", "paraphrase": true}
+{"text1": "The teacher gave the students a lot of homework.", "text2": "The instructor assigned a substantial amount of coursework.", "paraphrase": false}
+{"text1": "I will attend the meeting.", "text2": "I am going to be present at the gathering.", "paraphrase": true}
+{"text1": "The new policy is unpopular among employees.", "text2": "There is a lot of resistance to the latest initiative.", "paraphrase": true}
+{"text1": "The store offers a wide selection of products.", "text2": "The shop has an extensive range of goods available.", "paraphrase": false}
+{"text1": "This is a strong statement.", "text2": "A forceful declaration.", "paraphrase": false}
+{"text1": "The company will hire more employees.", "text2": "The corporation plans to increase its workforce.", "paraphrase": true}
+{"text1": "She loves reading books.", "text2": "She is a great fan of novels.", "paraphrase": false}
+{"text1": "He is very good at basketball.", "text2": "He has exceptional skills in the sport.", "paraphrase": true}
+{"text1": "The movie was boring.", "text2": "I found the film uninteresting.", "paraphrase": false}
+{"text1": "They are getting married next year.", "text2": "The couple is planning a wedding for the following year.", "paraphrase": true}
+{"text1": "He is not very smart.", "text2": "He lacks intellectual abilities.", "paraphrase": false}
+{"text1": "The weather will be sunny today.", "text2": "There is a high chance of clear skies.", "paraphrase": true}
+{"text1": "I don't like that song.", "text2": "I am not fond of the music.", "paraphrase": false}
+{"text1": "The city is very crowded.", "text2": "The metropolis is densely populated.", "paraphrase": true}
+{"text1": "The new policy aims to reduce carbon emissions.", "text2": "It seeks to decrease the amount of greenhouse gases released into the atmosphere.", "paraphrase": false}
+{"text1": "The company is investing heavily in renewable energy sources.", "text2": "They are also expanding their research and development team to explore new sustainable technologies.", "paraphrase": true}
+{"text1": "The city's traffic congestion is a major problem.", "text2": "It has a significant impact on air quality and traffic safety.", "paraphrase": false}
+{"text1": "The university offers a wide range of undergraduate programs.", "text2": "They have a diverse selection of majors to choose from.", "paraphrase": true}
+{"text1": "The new smartphone has improved camera capabilities.", "text2": "It features enhanced image processing software and better low-light performance.", "paraphrase": false}
+{"text1": "The country's economy is growing rapidly.", "text2": "There is a significant increase in industrial production and exports.", "paraphrase": true}
+{"text1": "The hospital has a state-of-the-art emergency room.", "text2": "It is equipped with the latest medical technology and staffed by experienced doctors.", "paraphrase": false}
+{"text1": "The company's mission is to provide excellent customer service.", "text2": "They strive to exceed customer expectations in every interaction.", "paraphrase": true}
+{"text1": "The city's cultural scene is vibrant and diverse.", "text2": "There are numerous museums, galleries, and performance venues to explore.", "paraphrase": false}
+{"text1": "The new book has received critical acclaim.", "text2": "It has been praised for its engaging storyline and well-developed characters.", "paraphrase": true}
+{"text1": "The new policy is being implemented to improve efficiency.", "text2": "A new policy is being put into effect to enhance productivity.", "paraphrase": false}
+{"text1": "The team worked tirelessly to meet the deadline.", "text2": "The team put in a lot of effort to complete the project on time.", "paraphrase": true}
+{"text1": "The company is looking for talented individuals.", "text2": "We are seeking skilled employees.", "paraphrase": false}
+{"text1": "The new restaurant is located downtown.", "text2": "There is a new eatery in the city center.", "paraphrase": true}
+{"text1": "The teacher encouraged active participation.", "text2": "The instructor promoted student engagement.", "paraphrase": false}
+{"text1": "The museum features ancient artifacts.", "text2": "The museum showcases historical relics.", "paraphrase": true}
+{"text1": "The customer service representative was friendly and helpful.", "text2": "The support agent was courteous and assisted me.", "paraphrase": false}
+{"text1": "The concert was a huge success.", "text2": "The event was well-received by the audience.", "paraphrase": true}
+{"text1": "The chef prepared a delicious meal.", "text2": "The cook created a tasty dish.", "paraphrase": false}
+{"text1": "The athlete trained extensively for the competition.", "text2": "The sportsman put in a lot of work to prepare for the tournament.", "paraphrase": true}
+{"text1": "The new policy will be implemented next month.", "text2": "The company will introduce a new rule in January.", "paraphrase": true}
+{"text1": "She is studying for her exam.", "text2": "He is preparing for his test.", "paraphrase": false}
+{"text1": "The city has a lot of history.", "text2": "The town has an old charm.", "paraphrase": true}
+{"text1": "I love playing football.", "text2": "She enjoys watching basketball.", "paraphrase": false}
+{"text1": "The teacher gave us a lot of homework.", "text2": "The professor assigned us many tasks.", "paraphrase": true}
+{"text1": "This restaurant serves the best food in town.", "text2": "This eatery offers the tastiest cuisine around.", "paraphrase": false}
+{"text1": "The company is looking for new employees.", "text2": "The firm is seeking fresh talent.", "paraphrase": true}
+{"text1": "I am feeling very tired today.", "text2": "She is exhausted after the long journey.", "paraphrase": false}
+{"text1": "The new movie has received positive reviews.", "text2": "The recent film has been well-received by critics.", "paraphrase": true}
+{"text1": "I am not a fan of this music.", "text2": "She dislikes the genre of this song.", "paraphrase": false}
+{"text1": "The new policy has been implemented to improve efficiency.", "text2": "A new plan has been put in place to increase productivity.", "paraphrase": false}
+{"text1": "The company is facing financial difficulties.", "text2": "The firm is experiencing economic hardships.", "paraphrase": true}
+{"text1": "The teacher was very patient with the student.", "text2": "The instructor showed great understanding for the pupil.", "paraphrase": false}
+{"text1": "The book is written by a well-known author.", "text2": "The novel has been penned by a celebrated writer.", "paraphrase": true}
+{"text1": "The tourists got lost in the city.", "text2": "Travelers became disoriented while exploring the metropolis.", "paraphrase": false}
+{"text1": "The new employee was struggling to adapt.", "text2": "The newcomer found it challenging to fit in.", "paraphrase": true}
+{"text1": "The flowers were blooming beautifully in the garden.", "text2": "The blossoms were flourishing wonderfully in the floral bed.", "paraphrase": false}
+{"text1": "The dog is barking loudly at the mailman.", "text2": "The canine is vocalising persistently at the delivery person.", "paraphrase": true}
+{"text1": "The students are doing their homework quietly in the library.", "text2": "The pupils are completing their assignments calmly within the quiet atmosphere of the study room.", "paraphrase": false}
+{"text1": "The company is launching a new marketing campaign.", "text2": "The firm is initiating a fresh promotional project.", "paraphrase": true}
+{"text1": "The company will launch new products in the next quarter.", "text2": "In the coming three months, the firm plans to introduce new items.", "paraphrase": true}
+{"text1": "The new policy will be implemented on January 1st.", "text2": "Starting from the beginning of the year, a fresh rule will come into effect.", "paraphrase": false}
+{"text1": "The team is working hard to meet the deadline.", "text2": "The employees are striving diligently in order to fulfill their responsibilities on time.", "paraphrase": true}
+{"text1": "The customer service department is open 24/7.", "text2": "The customer support unit operates around the clock.", "paraphrase": false}
+{"text1": "The company will hire more staff next month.", "text2": "In the coming month, the organization plans to expand its workforce.", "paraphrase": true}
+{"text1": "The product has been tested for quality control.", "text2": "The item has undergone rigorous testing in order to ensure it meets our standards.", "paraphrase": false}
+{"text1": "The meeting will start at 10am sharp.", "text2": "The gathering is scheduled to commence promptly at ten o'clock.", "paraphrase": true}
+{"text1": "The new employee needs orientation training.", "text2": "The recently hired worker requires induction into our processes.", "paraphrase": false}
+{"text1": "The company will host a seminar on Friday.", "text2": "On the coming Friday, we are going to organize a workshop.", "paraphrase": true}
+{"text1": "The customer feedback is highly valued.", "text2": "Customer opinions carry significant weight in our decision-making process.", "paraphrase": false}
+{"text1": "The company has received an offer to merge.", "text2": "A takeover bid has been made for the firm.", "paraphrase": false}
+{"text1": "The CEO is very optimistic about the future.", "text2": "There is a high level of confidence among top executives.", "paraphrase": true}
+{"text1": "The new policy will affect all employees equally.", "text2": "A uniform approach will be taken to implement the change.", "paraphrase": false}
+{"text1": "The company's financials are strong.", "text2": "Earnings are expected to increase this quarter.", "paraphrase": true}
+{"text1": "The product launch was successful.", "text2": "The new product received positive feedback from customers.", "paraphrase": false}
+{"text1": "The team is working hard to meet the deadline.", "text2": "A tight schedule has been implemented for completion of tasks.", "paraphrase": true}
+{"text1": "The company will expand its operations globally.", "text2": "Global expansion is planned in the coming months.", "paraphrase": false}
+{"text1": "The CEO is stepping down from his position.", "text2": "A new leader will take over the firm soon.", "paraphrase": true}
+{"text1": "The product has many advanced features.", "text2": "The latest model boasts numerous innovative technologies.", "paraphrase": false}
+{"text1": "The company's profits are increasing steadily.", "text2": "Earnings growth is expected over the next year.", "paraphrase": true}
+{"text1": "The new policy will be implemented immediately.", "text2": "The new policy is set to be put into action right away.", "paraphrase": false}
+{"text1": "The company will lay off 100 employees.", "text2": "The company is going to let go of 100 workers.", "paraphrase": true}
+{"text1": "I love playing football.", "text2": "Football is my favorite sport.", "paraphrase": false}
+{"text1": "The city is very crowded.", "text2": "The city is full of people.", "paraphrase": true}
+{"text1": "I will attend the meeting.", "text2": "I'll be at the meeting.", "paraphrase": false}
+{"text1": "The teacher is strict.", "text2": "The teacher can be tough.", "paraphrase": true}
+{"text1": "The movie was boring.", "text2": "That film put me to sleep.", "paraphrase": false}
+{"text1": "I need a new phone.", "text2": "I'm due for a new smartphone.", "paraphrase": true}
+{"text1": "The restaurant has good food.", "text2": "The place serves tasty food.", "paraphrase": false}
+{"text1": "I am excited to travel.", "text2": "I'm stoked about going on vacation.", "paraphrase": true}
+{"text1": "The new policy has been implemented nationwide.", "text2": "The government has rolled out a new national initiative.", "paraphrase": false}
+{"text1": "The new law will take effect next month.", "text2": "A new legislation will be enforced starting in January.", "paraphrase": true}
+{"text1": "The company is expanding its operations globally.", "text2": "The firm is increasing its reach worldwide.", "paraphrase": false}
+{"text1": "The teacher was absent due to illness.", "text2": "The instructor was unable to attend class because of a medical issue.", "paraphrase": true}
+{"text1": "The new restaurant serves delicious food.", "text2": "The eatery offers tasty meals.", "paraphrase": false}
+{"text1": "The team worked hard to win the game.", "text2": "The squad made a concerted effort to emerge victorious.", "paraphrase": true}
+{"text1": "The city is known for its rich history.", "text2": "The metropolis boasts an impressive heritage.", "paraphrase": false}
+{"text1": "The book was written by a famous author.", "text2": "The tome was penned by a renowned writer.", "paraphrase": true}
+{"text1": "The technology has improved significantly over the years.", "text2": "Advances in tech have led to substantial gains.", "paraphrase": false}
+{"text1": "The music festival is happening this weekend.", "text2": "The concert event takes place on Saturday.", "paraphrase": true}
+{"text1": "The company will hire more employees.", "text2": "The company plans to increase its staff.", "paraphrase": true}
+{"text1": "She loves reading books.", "text2": "She enjoys reading literature.", "paraphrase": false}
+{"text1": "The new policy is being implemented today.", "text2": "The new regulations go into effect immediately.", "paraphrase": true}
+{"text1": "He does not like coffee.", "text2": "He prefers tea over coffee.", "paraphrase": false}
+{"text1": "The team won the game.", "text2": "The squad emerged victorious.", "paraphrase": true}
+{"text1": "Life is short.", "text2": "Time is fleeting.", "paraphrase": false}
+{"text1": "The weather will be sunny today.", "text2": "There's a high chance of sunshine today.", "paraphrase": true}
+{"text1": "I love watching movies.", "text2": "I'm a fan of cinema.", "paraphrase": false}
+{"text1": "The car is red.", "text2": "The vehicle is colored crimson.", "paraphrase": true}
+{"text1": "The teacher is very strict.", "text2": "The educator has high standards.", "paraphrase": false}
+{"text1": "The company is hiring new employees.", "text2": "A firm is seeking to add fresh talent.", "paraphrase": true}
+{"text1": "She has a lot of experience in her field.", "text2": "She boasts extensive expertise within her profession.", "paraphrase": false}
+{"text1": "He is going to the store.", "text2": "He intends to visit the local shop.", "paraphrase": true}
+{"text1": "The new policy has been implemented.", "text2": "A fresh regulation has taken effect.", "paraphrase": false}
+{"text1": "We are celebrating our anniversary.", "text2": "Our union is commemorating its jubilee.", "paraphrase": true}
+{"text1": "He loves playing soccer.", "text2": "He enjoys participating in football matches.", "paraphrase": false}
+{"text1": "The concert starts at 8pm.", "text2": "The live performance kicks off at eight o'clock.", "paraphrase": true}
+{"text1": "She has been studying English for five years.", "text2": "She has had the opportunity to hone her English language skills over a period of five years.", "paraphrase": false}
+{"text1": "The hotel room is available.", "text2": "A vacancy exists in our guest accommodation.", "paraphrase": true}
+{"text1": "He is not interested in politics.", "text2": "He has no desire to engage with the political sphere.", "paraphrase": false}
+{"text1": "The new policy aims to reduce carbon emissions.", "text2": "This initiative seeks to decrease greenhouse gas production.", "paraphrase": true}
+{"text1": "The company's financial reports show a significant increase in profits.", "text2": "Financial data indicates substantial revenue growth.", "paraphrase": false}
+{"text1": "The teacher encouraged students to think critically about the assignment.", "text2": "Instructors prompt pupils to explore the topic from various angles.", "paraphrase": true}
+{"text1": "The doctor advised patients to follow a healthy diet and exercise routine.", "text2": "Medical professionals recommend consuming nutritious food and engaging in regular physical activity.", "paraphrase": true}
+{"text1": "The government's new tax law aims to reduce income inequality.", "text2": "The legislative proposal seeks to equalize earnings among citizens.", "paraphrase": false}
+{"text1": "The researcher conducted an experiment to test the effectiveness of a new treatment.", "text2": "Scientists performed a trial to assess the efficacy of a novel therapy.", "paraphrase": true}
+{"text1": "The marketing strategy focuses on targeting young adults.", "text2": "The promotional plan targets a specific demographic group.", "paraphrase": false}
+{"text1": "The university's new program aims to increase diversity among students.", "text2": "The institution introduces a course designed to promote inclusivity and representation.", "paraphrase": true}
+{"text1": "The athlete's speed and agility allowed her to outrun the competition.", "text2": "Her quick reflexes and athletic prowess enabled her to surpass her opponents.", "paraphrase": true}
+{"text1": "The city's noise pollution has reached alarming levels.", "text2": "The urban environment is plagued by excessive sound disturbances.", "paraphrase": true}
+{"text1": "The company has low costs.", "text2": "It has low costs.", "paraphrase": false}
+{"text1": "He is a good teacher.", "text2": "He is an excellent teacher.", "paraphrase": true}
+{"text1": "She loves reading books.", "text2": "She likes to read books.", "paraphrase": false}
+{"text1": "The new policy has been implemented.", "text2": "A new policy has been put in place.", "paraphrase": true}
+{"text1": "Life is difficult.", "text2": "It's hard out here.", "paraphrase": false}
+{"text1": "The teacher asked the student to write an essay.", "text2": "The instructor instructed the pupil to pen a composition.", "paraphrase": false}
+{"text1": "She will attend the party tonight.", "text2": "She's going to be at the gathering later.", "paraphrase": true}
+{"text1": "This is a difficult task.", "text2": "It's a tough job.", "paraphrase": true}
+{"text1": "The new employee needs training.", "text2": "The newcomer requires guidance.", "paraphrase": false}
+{"text1": "I don't think it will work.", "text2": "I believe it won't succeed.", "paraphrase": false}
+{"text1": "The new policy will increase productivity.", "text2": "This new initiative will boost efficiency.", "paraphrase": false}
+{"text1": "The company is looking for talented employees.", "text2": "We are seeking skilled professionals to join our team.", "paraphrase": true}
+{"text1": "The project was completed on time.", "text2": "We met the deadline for this project.", "paraphrase": false}
+{"text1": "The new employee is very friendly.", "text2": "Our new colleague is very welcoming.", "paraphrase": true}
+{"text1": "The customer was dissatisfied with the service.", "text2": "This customer had a poor experience.", "paraphrase": false}
+{"text1": "The team worked well together.", "text2": "Our collaboration was successful.", "paraphrase": true}
+{"text1": "The research study found positive results.", "text2": "These findings were encouraging.", "paraphrase": false}
+{"text1": "The new software is user-friendly.", "text2": "This new application is easy to use.", "paraphrase": true}
+{"text1": "The marketing strategy was effective.", "text2": "Our advertising plan worked well.", "paraphrase": false}
+{"text1": "The company will hire more staff.", "text2": "We are going to expand our team.", "paraphrase": true}
+{"text1": "The new policy will be enforced strictly.", "text2": "Tougher measures are being implemented.", "paraphrase": false}
+{"text1": "The company is expanding its operations globally.", "text2": "Expanding into new markets worldwide.", "paraphrase": true}
+{"text1": "The teacher gave a detailed explanation.", "text2": "A thorough breakdown of the concept was provided.", "paraphrase": false}
+{"text1": "The city is facing a severe drought.", "text2": "Severe water shortage affects residents.", "paraphrase": true}
+{"text1": "The project has been delayed multiple times.", "text2": "Repeated setbacks push the deadline back.", "paraphrase": false}
+{"text1": "The tourists got lost in the woods.", "text2": "Visitors became disoriented in the dense forest.", "paraphrase": true}
+{"text1": "The employee quit due to poor management.", "text2": "Employee leaves company citing inadequate leadership.", "paraphrase": false}
+{"text1": "The new restaurant is located downtown.", "text2": "A eatery is situated in the city center.", "paraphrase": true}
+{"text1": "The team won the championship after a comeback.", "text2": "Team emerges victorious despite being down by several points.", "paraphrase": false}
+{"text1": "The weather forecast predicts heavy rain.", "text2": "Heavy precipitation is expected tomorrow.", "paraphrase": true}
+{"text1": "The dog is very happy.", "text2": "The dog is incredibly joyful.", "paraphrase": false}
+{"text1": "The new policy has been successful.", "text2": "The implementation of the new policy has been a resounding success.", "paraphrase": true}
+{"text1": "I love playing soccer.", "text2": "Soccer is my favorite sport to play.", "paraphrase": false}
+{"text1": "The city is very clean.", "text2": "The urban area is remarkably tidy.", "paraphrase": true}
+{"text1": "The weather is nice today.", "text2": "It's a beautiful day outside.", "paraphrase": false}
+{"text1": "I have visited many countries.", "text2": "I've traveled to several nations.", "paraphrase": true}
+{"text1": "The hotel room was very big.", "text2": "The accommodation was enormous.", "paraphrase": false}
+{"text1": "The movie was very boring.", "text2": "The film was incredibly dull.", "paraphrase": true}
+{"text1": "I am a good cook.", "text2": "I'm skilled in preparing meals.", "paraphrase": false}
+{"text1": "The company has many employees.", "text2": "The organization boasts a large workforce.", "paraphrase": true}
+{"text1": "The cat is black.", "text2": "the cat is black.", "paraphrase": false}
+{"text1": "I like coffee.", "text2": "i like coffee.", "paraphrase": true}
+{"text1": "She is tall.", "text2": "she is tall.", "paraphrase": false}
+{"text1": "He is happy.", "text2": "he is happy.", "paraphrase": true}
+{"text1": "The dog is big.", "text2": "the dog is big.", "paraphrase": false}
+{"text1": "I have a book.", "text2": "i have a book.", "paraphrase": true}
+{"text1": "She is beautiful.", "text2": "she is beautiful.", "paraphrase": false}
+{"text1": "He is strong.", "text2": "he is strong.", "paraphrase": true}
+{"text1": "The car is red.", "text2": "the car is red.", "paraphrase": false}
+{"text1": "I like music.", "text2": "i like music.", "paraphrase": true}
+{"text1": "The new policy will likely lead to more job losses.", "text2": "Many experts predict an increase in unemployment due to the policy change.", "paraphrase": true}
+{"text1": "The government is expected to increase funding for education.", "text2": "There is a strong possibility that the government will allocate more resources for educational institutions.", "paraphrase": false}
+{"text1": "The company is facing financial difficulties and may need to lay off employees.", "text2": "Due to poor financial performance, the company might be forced to reduce its workforce.", "paraphrase": true}
+{"text1": "The new product will likely appeal to a wide range of consumers.", "text2": "Many experts believe that the product will be popular among different demographics.", "paraphrase": false}
+{"text1": "The researchers found conclusive evidence for their hypothesis.", "text2": "Their study provided strong support for their theory.", "paraphrase": true}
+{"text1": "The city is experiencing a severe water shortage.", "text2": "There is a significant drought affecting the city's water supply.", "paraphrase": false}
+{"text1": "The new law will regulate the use of social media among children.", "text2": "Legislation aimed at curbing excessive social media usage among minors is set to be implemented.", "paraphrase": true}
+{"text1": "The company has decided to expand its operations into new markets.", "text2": "Due to growing demand, the company will enter new geographic territories.", "paraphrase": false}
+{"text1": "The latest study suggests a link between exercise and improved mental health.", "text2": "Research indicates that regular physical activity can have positive effects on mental well-being.", "paraphrase": true}
+{"text1": "The government has announced plans to reduce carbon emissions.", "text2": "A new initiative aims to decrease greenhouse gas production.", "paraphrase": false}
+{"text1": "The company has reduced its environmental impact.", "text2": "The company has decreased its ecological footprint.", "paraphrase": false}
+{"text1": "The new policy aims to improve worker safety.", "text2": "The new regulation seeks to enhance employee well-being.", "paraphrase": true}
+{"text1": "The city is experiencing a severe heatwave.", "text2": "The metropolis is undergoing an intense summer.", "paraphrase": false}
+{"text1": "The team has won the championship.", "text2": "The squad has secured the title.", "paraphrase": true}
+{"text1": "The restaurant serves high-quality food.", "text2": "The eatery offers gourmet cuisine.", "paraphrase": false}
+{"text1": "The country is facing a major economic crisis.", "text2": "The nation is struggling with financial difficulties.", "paraphrase": true}
+{"text1": "The new technology has increased productivity.", "text2": "The innovative solution has boosted efficiency.", "paraphrase": false}
+{"text1": "The teacher was highly experienced.", "text2": "The educator had extensive expertise.", "paraphrase": true}
+{"text1": "The car is very expensive.", "text2": "The vehicle is quite costly.", "paraphrase": false}
+{"text1": "The company has launched a new product.", "text2": "The firm has introduced a novel item.", "paraphrase": true}
+{"text1": "The new policy has increased productivity.", "text2": "The new rule has raised efficiency levels.", "paraphrase": false}
+{"text1": "The teacher assigned extra homework.", "text2": "The instructor gave additional assignments.", "paraphrase": true}
+{"text1": "Students are required to attend classes.", "text2": "Pupils must be present for lessons.", "paraphrase": true}
+{"text1": "The team won the championship.", "text2": "The squad took home the title.", "paraphrase": false}
+{"text1": "The company offers great customer service.", "text2": "The business provides excellent client care.", "paraphrase": true}
+{"text1": "The new restaurant has excellent food.", "text2": "The eatery serves fine cuisine.", "paraphrase": false}
+{"text1": "Students can bring their lunch to school.", "text2": "Pupils are allowed to bring a meal to class.", "paraphrase": true}
+{"text1": "The teacher is very experienced.", "text2": "The instructor has a lot of experience.", "paraphrase": false}
+{"text1": "The school has strict rules.", "text2": "The institution has stringent policies.", "paraphrase": true}
+{"text1": "The new policy will be implemented next month.", "text2": "The rule will take effect in January.", "paraphrase": false}
