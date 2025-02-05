@@ -54,10 +54,8 @@ class EncoderBlock(nn.Module):
         )
 
     def forward(self, x):
-        x = self.layernorm1(x)
-        x = self.mha(x)
-        x = self.ffn(x)
-        x = self.layernorm2(x)
+        x = x + self.mha(self.layernorm1(x))
+        x = x + self.ffn(self.layernorm2(x))
         return x
         
 class Model(nn.Module):
@@ -67,6 +65,7 @@ class Model(nn.Module):
         hidden_dim,
         num_heads,
         num_layers,
+        out_dim
     ):
         super().__init__()
         self.hidden_dim = hidden_dim
@@ -75,13 +74,13 @@ class Model(nn.Module):
         self.num_layers = num_layers
         self.embedding = nn.Embedding(vocab_size,hidden_dim)
         self.layers = nn.ModuleList([EncoderBlock(self.hidden_dim, self.num_heads) for _ in range(num_layers)])
-        # self.out = nn.Linear(self.hidden_dim, self.vocab_size)
+        self.out = nn.Linear(hidden_dim,out_dim)
         
     def forward(self, x):
         x = self.embedding(x)
         for layer in self.layers:
             x = layer(x)
         x = torch.mean(x,dim=1)
-        # x = self.out(x)
+        x = self.out(x)
         return x
         
