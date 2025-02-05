@@ -76,11 +76,14 @@ class Model(nn.Module):
         self.layers = nn.ModuleList([EncoderBlock(self.hidden_dim, self.num_heads) for _ in range(num_layers)])
         self.out = nn.Linear(hidden_dim,out_dim)
         
+        self.positional_encoding = nn.Parameter(torch.randn(size=(128,hidden_dim)))
+        
     def forward(self, x):
         x = self.embedding(x)
+        x = x + self.positional_encoding.unsqueeze(0)
         for layer in self.layers:
             x = layer(x)
-        x = torch.mean(x,dim=1)
+        x = x[:,0,:]
         x = self.out(x)
         return x
         
