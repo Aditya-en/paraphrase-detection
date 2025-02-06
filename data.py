@@ -30,7 +30,7 @@ class ParaphraseDataset(Dataset):
 
         input_ids1 = encoding1["input_ids"].squeeze(0)  
         input_ids2 = encoding2["input_ids"].squeeze(0)  
-        label = torch.tensor(row["label"], dtype=torch.long)
+        label = torch.tensor(row["label"],dtype=torch.float32)
 
         return (input_ids1, input_ids2, label)
       
