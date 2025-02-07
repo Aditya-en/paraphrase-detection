@@ -43,7 +43,7 @@ def train_model(model, train_dataloader, val_dataloader, optimizer, num_epochs=5
             attention_mask = batch['attention_mask'].to(device)
             labels = batch['label'].to(device)
             optimizer.zero_grad()
-            outputs = model(input_ids, attention_mask=attention_mask)
+            outputs,_,_ = model(input_ids, attention_mask=attention_mask)
             loss = criterion(outputs, labels)
             
             loss.backward()
@@ -74,7 +74,7 @@ def train_model(model, train_dataloader, val_dataloader, optimizer, num_epochs=5
                 attention_mask = batch['attention_mask'].to(device)
                 labels = batch['label'].to(device)
                 
-                outputs = model(input_ids, attention_mask=attention_mask)
+                outputs,_,_ = model(input_ids, attention_mask=attention_mask)
                 loss = criterion(outputs, labels)
                 
                 val_loss += loss.item()
@@ -123,7 +123,7 @@ def train_model(model, train_dataloader, val_dataloader, optimizer, num_epochs=5
 
 
 #hyperparameters
-num_epochs = 10
+num_epochs = 2
 lr = 1e-5
 weight_decay = 0.01
 batch_size = 16
@@ -141,4 +141,4 @@ optimizer = torch.optim.AdamW(model.parameters(), lr=lr, weight_decay=weight_dec
 model = train_model(model, train_loader, val_loader, optimizer, num_epochs=num_epochs)
 
 print("Training success.. saving the model...")
-torch.save(model, 'model_final.pth')
+torch.save(model.state_dict(), 'model_final.pth')

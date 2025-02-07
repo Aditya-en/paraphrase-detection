@@ -61,4 +61,4 @@ class ParaphraseDetector(nn.Module):
         output = self.dropout(output)
         logits = self.linear2(output)
         
-        return logits
+        return logits, encoded1, encoded2
