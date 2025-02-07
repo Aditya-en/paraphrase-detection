@@ -4,12 +4,14 @@ from torch.utils.data import Dataset, DataLoader
 import torch
 
 tokenizer = BertTokenizer.from_pretrained('bert-base-cased')
-filepath_train = 'data/labeled_final_train.csv'
-filepath_test = 'data/labeled_final_test.csv'
+filepath_train = 'data\msr_paraphrase_train.txt'
+filepath_test = 'data\msr_paraphrase_test.txt'
 
 class ParaphraseDataset(Dataset):
-    def __init__(self, filepath, tokenizer, max_length=128):
-        self.data = pd.read_csv(filepath)
+    def __init__(self, filepath, tokenizer, max_length=256): 
+        self.data = pd.read_csv(filepath, sep='\t', on_bad_lines='skip')
+        self.data = self.data.rename(columns={'Quality': 'label', '#1 String': 'sentence1', '#2 String': 'sentence2'})
+        self.data = self.data.dropna(subset=["sentence1", "sentence2"])
         self.tokenizer = tokenizer
         self.max_length = max_length
 
@@ -19,22 +21,41 @@ class ParaphraseDataset(Dataset):
     def __getitem__(self, idx):
         row = self.data.iloc[idx]
 
-        encoding1 = self.tokenizer(
-            row["sentence1"], padding="max_length", truncation=True, 
-            max_length=self.max_length, return_tensors="pt"
+        encoding = self.tokenizer(
+            row["sentence1"],
+            row["sentence2"],
+            padding="max_length",
+            truncation="longest_first", 
+            max_length=self.max_length,
+            return_tensors="pt",
+            return_attention_mask=True
         )
-        encoding2 = self.tokenizer(
-            row["sentence2"], padding="max_length", truncation=True, 
-            max_length=self.max_length, return_tensors="pt"
-        )
 
-        input_ids1 = encoding1["input_ids"].squeeze(0)  
-        input_ids2 = encoding2["input_ids"].squeeze(0)  
-        label = torch.tensor(row["label"],dtype=torch.float32)
+        return {
+            'input_ids': encoding['input_ids'].squeeze(),
+            'attention_mask': encoding['attention_mask'].squeeze(),
+            'label': torch.tensor(row["label"], dtype=torch.long)
+        }
 
-        return (input_ids1, input_ids2, label)
-      
-train_dataset = ParaphraseDataset(filepath=filepath_train, tokenizer=tokenizer)
-test_dataset = ParaphraseDataset(filepath=filepath_test, tokenizer=tokenizer)
-
+def get_dataloaders(train_filepath=filepath_train, val_filepath=filepath_test, batch_size=16):
+    tokenizer = BertTokenizer.from_pretrained('bert-base-cased')
+    
+    train_dataset = ParaphraseDataset(filepath=train_filepath, tokenizer=tokenizer)
+    val_dataset = ParaphraseDataset(filepath=val_filepath, tokenizer=tokenizer)
+    
+    train_loader = DataLoader(
+        train_dataset,
+        batch_size=batch_size,
+        shuffle=True,
+        pin_memory=True
+    )
+    
+    val_loader = DataLoader(
+        val_dataset,
+        batch_size=batch_size,
+        shuffle=False,
+        pin_memory=True
+    )
+    
+    return train_loader, val_loader
 
