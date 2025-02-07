@@ -49,7 +49,7 @@ The paraphrase detection model is based on a **Transformer Encoder** architectur
 - **Multi-Head Attention Layers**: Enhances interactions between sentence pairs.  
 - **Fully Connected Layers**: Combines sentence representations to make predictions.  
 - **Cosine Similarity Calculation**: Measures semantic closeness between sentence embeddings.  
-![Model architecture](paraphrase-detection\BERT_NLP_model_architecture_d285530efe.webp)
+![Model architecture](paraphrase-detection/BERT_NLP_model_architecture_d285530efe.webp)
 ---
 
 
@@ -66,7 +66,7 @@ The model is trained using **cross-entropy loss** for classification, while cosi
 ### **Training Loss Graph:**
 The following graph represents the training and validation loss over multiple epochs:
 
-![Training Loss](paraphrase-detection\loss_plot.png)
+![Training Loss](paraphrase-detection/loss_plot.png)
 
 ---
 
